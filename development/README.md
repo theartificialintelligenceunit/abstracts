@@ -1,7 +1,6 @@
 <br>
 
-> [!NOTE]
-> The repository's development notes. 
+The repository's development notes. 
 
 <br>
 
@@ -9,6 +8,8 @@
 
 > [!TIP]
 > [lucide](https://lucide.dev)
+
+<br>
 
 Launch an interactive environment via
 
