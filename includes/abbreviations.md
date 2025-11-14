@@ -21,3 +21,5 @@
 *[NIST]: National Institute of Standards & Technology
 *[w.r.t]: with respect to
 *[AWS]: Amazon Web Services
+*[RNN]: Recurrent Neural Networks
+*[LSTM]: Long Short-Term Memory
