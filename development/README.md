@@ -1,10 +1,14 @@
 <br>
 
-The repository's development notes.
+> [!NOTE]
+> The repository's development notes. 
 
 <br>
 
 ## ZENSICAL
+
+> [!TIP]
+> [lucide](https://lucide.dev)
 
 Launch an interactive environment via
 
