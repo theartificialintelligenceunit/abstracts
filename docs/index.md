@@ -1,0 +1,69 @@
+---
+icon: lucide/rocking-chair
+---
+
+# Artificial Intelligence Unit
+
+<div class="grid cards" markdown>
+
+-   :material-format-font:{ .lg .middle } __Text/String Detection & Classification: Dispatches__
+
+    ---
+
+    The fine-tuning of deep large language model architectures for token, i.e., specific text/string, detection and classification purposes.  An adaptable component for contextual redaction, criminal investigations, etc.
+
+    [:octicons-arrow-right-24: README](#)
+
+-   :material-water:{ .lg .middle } __River Level Intelligence__
+
+    ---
+
+    Continuous intelligence, including raw measures, river level forecasts, weighted rates of change, etc., in aid of resilience activity, preventive action, and more.
+
+    [:octicons-arrow-right-24: README](#)
+
+-   :material-format-font:{ .lg .middle } __Text/String Detection & Classification: Eclectic__
+
+    ---
+
+    The fine-tuning of deep large language model architectures for token, i.e., specific text/string, detection and classification purposes.  An adaptable component for contextual redaction, criminal investigations, etc.
+
+    [:octicons-arrow-right-24: README](#)
+
+-   :fontawesome-solid-person-falling-burst:{ .lg .middle } __A & E__
+
+    ---
+
+    Forecasting $\ldots$
+
+    [:octicons-arrow-right-24: README](#)
+
+-   :fontawesome-solid-robot:{ .lg .middle } __Orchestration & Automation__
+
+    ---
+
+    A simple illustration of orchestrating and automating an end-to-end solution within a continuous integration & delivery setting.
+
+    [:octicons-arrow-right-24: README](#)
+
+-   :material-scale-balance:{ .lg .middle } __AI/ML Dependent Systems__
+
+    ---
+
+    Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions.
+
+    [:octicons-arrow-right-24: README](#)
+
+</div>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
