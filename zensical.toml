@@ -48,6 +48,7 @@ nav = [
   { "<img src='images/start.svg' alt='🛖'>" = "index.md" },
   { "River Levels" = [
       "sections/hydrography/index.md",
+      "sections/hydrography/background.md",
       "sections/hydrography/mathematics.md"
   ]},
   { "Fine Tuning" = [
