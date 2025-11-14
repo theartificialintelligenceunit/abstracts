@@ -139,3 +139,6 @@ vite.config.ts.timestamp-*
 
 # IntelliJ IDEA
 .idea
+
+# Notes
+development/README.md
