@@ -10,3 +10,7 @@ div.md-sidebar--primary {
 .md-typeset .grid {
     grid-gap: 2.1rem;
 }
+
+.md-typeset h1 {
+    font-variant: small-caps;
+}
