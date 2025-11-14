@@ -1,0 +1,12 @@
+
+td {
+    word-wrap: break-word;
+}
+
+div.md-sidebar--primary {
+    width: 200px;
+}
+
+.md-typeset .grid {
+    grid-gap: 2.1rem;
+}
