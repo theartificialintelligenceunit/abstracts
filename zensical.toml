@@ -49,7 +49,8 @@ nav = [
   { "River Levels" = [
       "sections/hydrography/index.md",
       "sections/hydrography/background.md",
-      "sections/hydrography/mathematics.md"
+      "sections/hydrography/data.md",
+      "sections/hydrography/measures-metrics.md"
   ]},
   { "Fine Tuning" = [
       "sections/tc/index.md"
