@@ -44,10 +44,21 @@ Copyright &copy; 2025 The Artificial Intelligence Unit
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "<img src='images/start.svg' alt='🛖'>" = "index.md" },
+  { "River Levels" = [
+      "sections/hydrography/index.md",
+      "sections/hydrography/mathematics.md"
+  ]},
+  { "Fine Tuning" = [
+      "sections/tc/index.md"
+  ]},
+  { "Orchestrate & Automate" = [
+      "sections/automation/index.md",
+      "sections/automation/background.md",
+      "sections/automation/notes.md"
+  ]}
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -57,7 +68,10 @@ Copyright &copy; 2025 The Artificial Intelligence Unit
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-# extra_css = ["assets/stylesheets/extra.css"]
+extra_css = [
+    "stylesheets/extra.css",
+    "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -65,13 +79,16 @@ Copyright &copy; 2025 The Artificial Intelligence Unit
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-# extra_javascript = ["assets/javascript/extra.js"]
+extra_javascript = [
+    "javascripts/mathjax.js",
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-
 repo_url = "https://github.com/theartificialintelligenceunit/abstracts"
 repo_name = "theartificialintelligenceunit/abstracts"
 
@@ -217,7 +234,7 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
@@ -301,7 +318,39 @@ repo = "fontawesome/brands/git-alt"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
+# attr_list -> gids, tooltips, emoji
 # ----------------------------------------------------------------------------
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
 # link = "https://github.com/user/repo"
+
+
+# Mathematics
+[project.markdown_extensions.pymdownx.arithmatex]
+generic = true
+
+# Grids
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.md_in_html]
+
+# Highlights
+[project.markdown_extensions.pymdownx.highlight]
+linenums = true
+anchor_linenums = true
+pygments_lang_class = true
+auto_title = true
+
+# Admonitions
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+
+# Emoji
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
+
+# Tooltips
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.pymdownx.snippets]
+auto_append = ["includes/abbreviations.md"]
