@@ -52,7 +52,7 @@ In practice, model development is via <a href="https://www.tensorflow.org/probab
 
 Study:
 
-* <a href="https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext" target="_blank">Long Short-Term Memory</a>
+* <a href="https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext" target="_blank">Long Short-Term Memory</a> by Sepp Hochreiter, Jürgen Schmidhuber
 * <a href="https://arxiv.org/abs/1909.09586" target="_blank">Understanding LSTM</a> by Ralf C. Staudemeyer, Eric Rothstein Morris
 
 <br>
