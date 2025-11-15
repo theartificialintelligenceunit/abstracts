@@ -53,8 +53,9 @@ nav = [
       "sections/hydrography/measures-metrics.md",
       "sections/hydrography/models.md"
   ]},
-  { "Fine Tuning" = [
-      "sections/tc/index.md"
+  { "Token Classification:<br>Dispatches" = [
+      "sections/dispatches/index.md",
+      "sections/dispatches/background.md"
   ]},
   { "Orchestrate & Automate" = [
       "sections/automation/index.md",
@@ -327,6 +328,10 @@ repo = "fontawesome/brands/git-alt"
 icon = "fontawesome/brands/github"
 link = "https://github.com/theartificialintelligenceunit/abstracts"
 
+# Lists
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
 
 # Mathematics
 [project.markdown_extensions.pymdownx.arithmatex]
