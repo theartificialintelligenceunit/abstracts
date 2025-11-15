@@ -1,4 +1,6 @@
-
+---
+icon: lucide/rocket
+---
 
 # Models
 
@@ -12,8 +14,6 @@ Forecasting river levels.  In general &rarr;
 
 
 ## Bayesian Structural Time Series + Variational Inference
-
-<br>
 
 A Bayesian Structural Time Series (STS) algorithm is a state space algorithm, in brief
 
