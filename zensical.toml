@@ -328,6 +328,10 @@ repo = "fontawesome/brands/git-alt"
 icon = "fontawesome/brands/github"
 link = "https://github.com/theartificialintelligenceunit/abstracts"
 
+
+# Footnotes
+[project.markdown_extensions.footnotes]
+
 # Lists
 [project.markdown_extensions.def_list]
 [project.markdown_extensions.pymdownx.tasklist]
