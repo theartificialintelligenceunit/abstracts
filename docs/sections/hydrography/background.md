@@ -6,7 +6,7 @@ icon: lucide/circle-question-mark
 
 ## Problem Statement
 
-The problem and why is it important to solve
+The problem and why is it important to solve &Rarr;
 
 !!! note "STATEMENT"
     
@@ -22,19 +22,26 @@ The problem and why is it important to solve
 
 ## Outcome Expectations, Underlying Aims
 
-**The potential product's outcome expectations** &Rarr;
+The potential product's outcome expectations &Rarr;
 
-!!! note "During a weather warning period, frequent"
+!!! note "The outcome expectations during a weather warning period are frequent"
     
-    1. forecasting of river levels, that fall within a warning area; at least every six hours.
+    1. forecasting of river levels, that fall within a warning area; every eleven, or fewer, hours.
     2. measures & metrics updates; every three, or fewer, hours.
+
+
+!!! note "The outcome expectations outwith a weather warning period are"
+
+    1. daily, within schedule, updates of measures & metrics updates.
 
 <br>
 
-**Underlying aims** &Rarr;
+Underlying aims &Rarr;
 
-> 1. Point forecasts/predictions within $\pm 0.025%$ error.
-> 2. The wherewithal to update measures & metrics, and actions thereof, every three, or fewer, hours
+!!! note "Hence, the underlying aims are"
+    
+    1. Point forecasts/predictions, **at least thirteen hours ahead**; each point within $\pm 0.025\%$ error.
+    2. The wherewithal to update measures & metrics, and actions thereof, every three, or fewer, hours
 
 <br>
 <br>
