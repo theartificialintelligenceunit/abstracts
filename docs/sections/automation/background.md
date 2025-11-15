@@ -4,7 +4,6 @@ icon: lucide/rocket
 
 # Background
 
-
 The objective of this proof of concept is to investigate whether/how Amazon Web Services (AWS) tools can be used to develop data products or solutions that eliminate or minimise the organisation's manual operations/tasks.  <b>For example, products that</b>
 
 <blockquote>
