@@ -45,7 +45,7 @@ Copyright &copy; 2025 The Artificial Intelligence Unit
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "<img src='images/start.svg' alt='🛖'>" = "index.md" },
+  { "<img src='images/start.svg' alt='⾕'>" = "index.md" },
   { "River Levels" = [
       "sections/hydrography/index.md",
       "sections/hydrography/background.md",
