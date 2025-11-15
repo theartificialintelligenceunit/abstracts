@@ -325,7 +325,7 @@ repo = "fontawesome/brands/git-alt"
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/user/repo"
+link = "https://github.com/theartificialintelligenceunit/abstracts"
 
 
 # Mathematics
