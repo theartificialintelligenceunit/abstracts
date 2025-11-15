@@ -116,7 +116,7 @@ repo_name = "theartificialintelligenceunit/abstracts"
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-# favicon = "assets/images/favicon.png"
+favicon = "images/fingerprint.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -315,17 +315,17 @@ toggle.name = "Switch to light mode"
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://zensical.org/docs/authoring/icons-emojis/#search
 # ----------------------------------------------------------------------------
-# [project.theme.icon]
-# logo = "lucide/smile"
+[project.theme.icon]
+logo = "lucide/fingerprint"
 repo = "fontawesome/brands/git-alt"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # attr_list -> gids, tooltips, emoji
 # ----------------------------------------------------------------------------
-# [[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/user/repo"
 
 
 # Mathematics
@@ -357,3 +357,7 @@ emoji_generator = "zensical.extensions.emoji.to_svg"
 [project.markdown_extensions.abbr]
 [project.markdown_extensions.pymdownx.snippets]
 auto_append = ["includes/abbreviations.md"]
+
+# Permalink
+[project.markdown_extensions.toc]
+permalink =  true
