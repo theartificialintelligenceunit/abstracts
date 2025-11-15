@@ -50,7 +50,8 @@ nav = [
       "sections/hydrography/index.md",
       "sections/hydrography/background.md",
       "sections/hydrography/data.md",
-      "sections/hydrography/measures-metrics.md"
+      "sections/hydrography/measures-metrics.md",
+      "sections/hydrography/models.md"
   ]},
   { "Fine Tuning" = [
       "sections/tc/index.md"
