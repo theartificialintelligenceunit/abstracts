@@ -14,3 +14,9 @@ div.md-sidebar--primary {
 .md-typeset h1 {
     font-variant: small-caps;
 }
+
+.md-typeset h2 {
+    font-variant: small-caps;
+    font-weight: bolder;
+    color: #423f3fe8;
+}
