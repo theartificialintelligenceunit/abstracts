@@ -8,14 +8,14 @@ icon: lucide/circle-question-mark
 
 The problem and why is it important to solve
 
-> The ability to anticipate problems is critical to the effectiveness of weather resilience teams.  In the case of Scotland's resilience team, an item of interest is river levels because unusual levels, or unusual river-level-rates-of-change, hint at possible or impending bank breaches.  At present
->
-> * During storms the team neither has access to real-time forecasts **nor** supplementary measures/metrics.
-> * Outwith storms the team does not have access to river levels intelligence, such intelligence enables hydrologists to identify problems, study patterns, etc., in-time.
-
-<br>
-
-Hence, an illustrative development of a plausible river levels intelligence hub, that hosts measures, metrics, actionable insights, predictions, etc., and exists within a continuous integration & delivery setting.
+!!! note "STATEMENT"
+    
+    The ability to anticipate problems is critical to the effectiveness of weather resilience teams.  In the case of Scotland's resilience team, an item of interest is river levels because unusual levels, or unusual river-level-rates-of-change, hint at possible or impending bank breaches.  At present
+    
+    * During storms the team neither has access to real-time forecasts **nor** supplementary measures/metrics.
+    * Outwith storms the team does not have access to river levels intelligence, such intelligence enables hydrologists to identify problems, study patterns, etc., in-time.
+    
+    Hence, [in search of] an illustrative development of a plausible river levels intelligence hub, that hosts measures, metrics, actionable insights, predictions, etc., and exists within a continuous integration & delivery setting.
 
 <br>
 <br>
@@ -24,9 +24,10 @@ Hence, an illustrative development of a plausible river levels intelligence hub,
 
 **The potential product's outcome expectations** &Rarr;
 
-During a weather warning period, frequent
-> 1. forecasting of river levels, that fall within a warning area; at least every six hours.
-> 2. measures & metrics updates; every three, or fewer, hours.
+!!! note "During a weather warning period, frequent"
+    
+    1. forecasting of river levels, that fall within a warning area; at least every six hours.
+    2. measures & metrics updates; every three, or fewer, hours.
 
 <br>
 
