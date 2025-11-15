@@ -1,5 +1,5 @@
 ---
-icon: lucide/rocket
+icon: lucide/microscope
 ---
 
 # Orchestrate & Automate
