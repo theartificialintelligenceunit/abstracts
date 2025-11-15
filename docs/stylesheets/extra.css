@@ -20,3 +20,7 @@ div.md-sidebar--primary {
     font-weight: bolder;
     color: #423f3fe8;
 }
+
+.md-tabs__item {
+    height: 2.99rem;
+}
