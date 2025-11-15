@@ -1,5 +1,5 @@
 ---
-icon: lucide/pencil-ruler
+icon: lucide/grip
 ---
 
 # Data
