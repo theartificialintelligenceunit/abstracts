@@ -344,7 +344,6 @@ generic = true
 # Grids, etc.
 [project.markdown_extensions.attr_list]
 [project.markdown_extensions.md_in_html]
-[project.markdown_extensions.pymdownx.blocks.caption]
 
 # Highlights
 [project.markdown_extensions.pymdownx.highlight]
