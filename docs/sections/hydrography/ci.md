@@ -33,6 +33,21 @@ The <a href="https://github.com/repatterning/configurations/blob/master/src/arte
 ![warning forecasting](../../images/hydrography-warning-forecasting.png){ width='396px' }
   
 
+<br>
+<br>
+
+## Beta: Reinforcement Learning
+
+### Modelling
+
+![lstm: modelling](../../images/hydrography-rnn-lstm-modelling.png){ width='581px' }
+
+<br>
+
+### Inference
+
+![lstm: inference](../../images/hydrography-rnn-lstm-inference.png){ width='271px' }
+
 
 <br>
 <br>
