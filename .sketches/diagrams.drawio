@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-11-15T03:51:03.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="u7AZzY6sJ1WkL3VDeDCG" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2025-11-16T02:54:39.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="lL0WlYfGBWVBtjeXpTh2" version="22.1.2" type="device" pages="2">
   <diagram name="dispatches-repositories" id="NKct0yvRwDZPGS5-LY1j">
     <mxGraphModel dx="1232" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,107 @@
         </mxCell>
         <mxCell id="gYTZMiJ3hf2rMKiT2wGT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;opacity=80;" parent="1" source="gYTZMiJ3hf2rMKiT2wGT-25" target="gYTZMiJ3hf2rMKiT2wGT-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e2118BKMYALyoljA_Cwr" name="hydrography-daily">
+    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-3" value="Acquires of the latest raw river measures.&amp;nbsp; [from: scottish environment protection agency, to: Amazon storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="337" y="237" width="127" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-4" value="Structures the raw data; it ensures (a) missing time points are present, albeit measure values are set to NaN, (b) removes duplicate instances, (c) per gauge, it provides 15-minute &amp;amp; 1-hour granularity data. [from: Amazon storage, to Amazon Storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="234.75" width="137.5" height="103.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-5" value="Provides the data points &amp;amp; structures of the raw measures graphs \(\longrightarrow\) the Measures: Split &amp;amp; Measures: Continuous pages. [from: Amazon storage, to: Amazon Storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;rotation=0;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="694" y="170.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-7" value="Hosts the calculations, and structuring algorithms, that (a) calculae the continuous river level change percentages per gauge point, (b) allows teams to compare percentage changes within a catchment.&amp;nbsp; Graphs \(\longrightarrow\) Contrasts page. [from: Amazon storage, to: Amazon Storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;rotation=0;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="694" y="277" width="180" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-8" value="Per gauge measures, it calculates a variety of quantile values vis-à-vis each day&#39;s measurements.&amp;nbsp; Graphs \(\longrightarrow\) Extrema page. [from: Amazon storage, to: Amazon Storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;rotation=0;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="694" y="411" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-9" value="Per gauge measures, it calculates the weighted rates of change of a river level within the vicinity of a gauge.&amp;nbsp; Graphs \(\longrightarrow\) Risks: Rates of Change page. [from: Amazon storage, to: Amazon Storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;rotation=0;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="694" y="519" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-11" value="Calculates drift metrics.&amp;nbsp; Graphs \(\longrightarrow\) Drift page. [from: Amazon storage, to: Amazon Storage]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;labelPosition=center;verticalLabelPosition=middle;fontSize=11;rotation=0;fontColor=#000000;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="694" y="642.5" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-12" value="initial" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;fontSize=11;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="341.75" y="164.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-14" value="structures" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;labelPosition=center;fontSize=11;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="500.5" y="164.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-16" value="measures" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;fontSize=11;labelPosition=center;spacingRight=2;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="652" y="197" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-18" value="contrasts" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;fontSize=11;labelPosition=center;spacingRight=2;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="316" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-19" value="quantiles" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;fontSize=11;labelPosition=center;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="435" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-21" value="risks" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;fontSize=11;labelPosition=center;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="651.75" y="550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-22" value="drift" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.git_repository;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;rotation=0;fontSize=11;labelPosition=center;fontColor=#000000;textOpacity=80;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="654.25" y="661.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-36" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="628" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-37" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="516" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="642" y="725" as="sourcePoint" />
+            <mxPoint x="642" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="725" as="sourcePoint" />
+            <mxPoint x="476" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-43" value="STAGE 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;fontSize=13;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="354" y="109" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-44" value="STAGE 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;fontSize=13;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="109" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-45" value="STAGE 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;fontSize=13;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="109" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327" y="725" as="sourcePoint" />
+            <mxPoint x="327" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-49" value="frequency:&lt;br&gt;&amp;nbsp;daily" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.scheduler;pointerEvents=1;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;fontColor=#000000;opacity=80;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="266" y="158.25" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-50" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="401" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-51" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="281" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-52" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="652" y="162" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-53" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="547.25" y="164.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UZxnNwwKgD2D8Ae8I3Yt-54" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;rotation=0;opacity=80;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="384" y="164" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
