@@ -26,7 +26,7 @@ This section outlines the warning period orchestrations.
 
 ### Forecasting
 
-The scheduler's frequency can be set to  eleven or fewer hours.  The <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/arc-state-space-mixture/arguments.json" target="_blank">configurations JSON</a> outlines the forecasting arguments, including forecast hours ahead.
+The <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/arc-state-space-mixture/arguments.json" target="_blank">configurations JSON</a> outlines the forecasting arguments, including forecast hours ahead.  The scheduler's frequency can be set to eleven or fewer hours, especially if the <a data-preview href="../background/#outcome-expectations-underlying-aims">hours ahead expectations</a> will not be met otherwise.
 
 <br>
 
