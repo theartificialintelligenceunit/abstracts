@@ -31,11 +31,11 @@ The diagram outlines the functions of git repositories; hover over a git symbol 
 
 <br>
 
-<img src='../../../images/dispatches-repositories.png' alt='repositories' width='685'/>
+![repositories](../../images/dispatches-repositories.png){ width='685px' }
 
 <br>
 
-The `text` package will be re-written, if funding is available.  The
+The `text` package will be re-written, if funding permitting.  The
 <a href="https://github.com/membranes/restructuring" target="_blank">restructuring</a> repository package is for restructuring the latest data captures in preparation for (a) human inspection, and (b) usage as a model re-training data source.
 
 <br>
@@ -48,7 +48,7 @@ The `text` package will be re-written, if funding is available.  The
 <br>
 <br>
 
-## Application
+## Plausible Application
 
 This section outlines a plausible $(a)$ problem statement, $(b)$ corresponding outcome expectations/underlying aims, and $(c)$ deployment goal vis-à-vis token classification model development.
 
@@ -74,7 +74,7 @@ An organisation manually classifies trauma incidents for all the major trauma ce
 
 A potential machine learning dependent project without a deployment goal is directionless, do not proceed.  A plausible deployment goal is<br><br><br><br>
 
-<img src='../../../images/dispatches-deployment-goal.png' alt='deployment goal' width='596'/>
+![deployment goal](../../images/dispatches-deployment-goal.png){ width='596px' }
 
 <br>
 <br>
