@@ -6,6 +6,18 @@ icon: lucide/brain-circuit
 
 At present, river level prediction/forecasting depends on hourly river level data.  For the latest settings, including forecasting hours $\small{ahead}$, study the configuration files <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/arc-state-space-mixture/arguments.json" target="_blank">arguments.json</a> | <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/arc-state-space-mixture/arguments.yaml" target="_blank">arguments.yaml</a>; the YAML version includes definitions.
 
+<br>
+
+## Recurrent Neural Networks: LSTM
+
+The latest model is a LSTM model.  For an indepth understanding study
+
+* <a href="https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext" target="_blank">Long Short-Term Memory</a> by Sepp Hochreiter, Jürgen Schmidhuber
+* <a href="https://arxiv.org/abs/1909.09586" target="_blank">Understanding LSTM</a> by Ralf C. Staudemeyer, Eric Rothstein Morris
+
+The project's LSTM modelling repository/package depends on tensorflow-keras libraries; applications, in practice[^2]<sup>, </sup>[^3]<sup>, </sup>[^4].
+
+<br>
 
 ## Bayesian Structural Time Series + Variational Inference
 
@@ -37,17 +49,12 @@ Formally, <b>Eq. 1</b>  is the <i>observation model</i>, whilst <b>Eq. 2</b> is 
 
 A key advantage of state space modelling is $\rightarrow$ modelling via the superimposition of behaviours.  The superimposition, encoding, of behaviours occurs via the components $\pmb{x}_{t}$ & $\mathbf{F}_{t}$.  For an in-depth outline, study <a href="https://link.springer.com/book/10.1007/978-3-030-76124-0" target="_blank">Bayesian Inference of State Space Models</a> by K. Triantafyllopoulos.<br><br>
 
-In practice, model development is via <a href="https://www.tensorflow.org/probability" target="_blank">TensorFlow Probability</a> libraries.  Visit the project's river level modelling [GitHub] <a href="https://github.com/repatterning/variational/tree/master" target="_blank">repository</a>; the modelling arguments are readable <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/variational/arguments.yaml" target="_blank">with</a> or <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/variational/arguments.json" target="_blank">without</a> comments/definitions.
+In practice, model development is via <a href="https://www.tensorflow.org/probability" target="_blank">TensorFlow Probability</a> libraries.  Visit the project's river level modelling <a href="https://github.com/repatterning/variational/tree/master" target="_blank">repository</a>; the modelling arguments are readable <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/variational/arguments.yaml" target="_blank">with</a> or <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/variational/arguments.json" target="_blank">without</a> comments/definitions.
 
 <br>
 <br>
 
-## Recurrent Neural Networks: LSTM
 
-Study:
-
-* <a href="https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext" target="_blank">Long Short-Term Memory</a> by Sepp Hochreiter, Jürgen Schmidhuber
-* <a href="https://arxiv.org/abs/1909.09586" target="_blank">Understanding LSTM</a> by Ralf C. Staudemeyer, Eric Rothstein Morris
 
 <br>
 <br>
@@ -59,6 +66,8 @@ Study:
 <br>
 
 [^1]: For more about the structure options of $\pmb{\varsigma}_{t}$, i.e., system errors, study <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-1/Inferring-causal-impact-using-Bayesian-structural-time-series-models/10.1214/14-AOAS788.full" target="_blank">Inferring causal impact using Bayesian structural time-series models</a>, and <a href="https://link.springer.com/book/10.1007/978-3-030-76124-0" target="_blank">Bayesian Inference of State Space Models</a>
-
+[^2]: <a href="https://www.tensorflow.org/guide/keras/working_with_rnns" target="_blank">Working with RNN</a>
+[^3]: <a href="https://keras.io/examples/timeseries/timeseries_weather_forecasting" target="_blank">Timeseries forecasting for weather prediction</a>; <a href="https://www.tensorflow.org/tutorials/structured_data/time_series#recurrent_neural_network" target="_blank">cf</a>.
+[^4]: <a href="https://keras.io/examples/timeseries/timeseries_traffic_forecasting" target="_blank">Traffic forecasting using graph neural networks and LSTM</a>
 <br>
 <br>
