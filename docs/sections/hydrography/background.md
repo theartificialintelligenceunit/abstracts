@@ -26,7 +26,7 @@ The potential product's outcome expectations &Rarr;
 
 !!! note "The outcome expectations during a weather warning period are frequent"
     
-    1. forecasting of river levels, that fall within a warning area; every eleven, or fewer, hours.
+    1. forecasting of river levels, that fall within a warning area.
     2. measures & metrics updates; every three, or fewer, hours.
 
 
@@ -40,21 +40,26 @@ Underlying aims &Rarr;
 
 !!! note "Hence, the underlying aims are"
     
-    1. Point forecasts/predictions, **at least thirteen hours ahead**; each point within $\pm 0.025\%$ error.
-    2. The wherewithal to update measures & metrics, and actions thereof, every three, or fewer, hours
+    1. hourly-point forecasts/predictions of river levels, **at least thirteen hours ahead**; forecasting/predicting ahead every eleven or fewer hours.
+    2. hourly-point forecasts/predictions within $\pm 0.025\%$ error.
+    3. the wherewithal to update measures & metrics, and actions thereof, every three, or fewer, hours
 
 <br>
 <br>
 
 ## Deployment Goal
 
-A continuously & automatically updated online intelligence hub that hosts river level intelligence metrics and forecasts. Outwith a warning period, the metrics shall be updated daily, and should include, at least,
+The deployment goal &Rarr;
 
-1. Raw river levels per gauge, and annual river level pattern comparison per gauge
-2. Daily extrema & medians
-3. Drift
-4. Weighted rates of change of river levels
-5. A comparison of percentage river level changes w.r.t gauges within the same catchment.
+!!! note "A continuously & automatically updated online intelligence hub ..."
+    
+    $\ldots$ that hosts river level intelligence metrics and forecasts. Outwith a warning period, the metrics shall be updated daily, and should include, at least,
+    
+    1. Raw river levels per gauge, and annual river level pattern comparison per gauge
+    2. Daily extrema & medians
+    3. Drift
+    4. Weighted rates of change of river levels
+    5. A comparison of percentage river level changes w.r.t gauges within the same catchment.
 
 <br>
 <br>
