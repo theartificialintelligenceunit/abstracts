@@ -41,7 +41,7 @@ Underlying aims &Rarr;
 !!! note "Hence, the underlying aims are"
     
     1. hourly-point forecasts/predictions of river levels, **at least thirteen hours ahead**; forecasting/predicting ahead every eleven or fewer hours.
-    2. hourly-point forecasts/predictions within $\pm 0.025\%$ error.
+    2. hourly-point forecasts/predictions within <b>&plusmn; 0.025%</b> error.
     3. the wherewithal to update measures & metrics, and actions thereof, every three, or fewer, hours
 
 <br>
