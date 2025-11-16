@@ -41,9 +41,9 @@ The data sources:
 
 [Meteorological Office Warnings Services](https://weather.metoffice.gov.uk/guides/warnings):
 
-* [RSS feeds](https://weather.metoffice.gov.uk/guides/rss)
-* [email alerts](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/subscribe-to-email-alerts)
-* [National Severe Weather Warnings Service Public API](https://metoffice.github.io/nswws-public-api)
+* [RSS Feeds](https://weather.metoffice.gov.uk/guides/rss)
+* [Electronic Mail Alerts](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/subscribe-to-email-alerts)
+* <a href="https://metoffice.github.io/nswws-public-api" target="_blank">National Severe Weather Warnings Service Public API</a>
 
 <br>
 <br>
