@@ -25,3 +25,4 @@
 *[LSTM]: Long Short-Term Memory
 *[TC]: Token Classification; Herein, token classification is the detection and classification of text or strings via fine-tuned large language model architectures. Each model detects and classifies text or strings of vis-à-vis a set of classes.
 *[API]: Application Programming Interface
+*[YAML]: YAML Ain't Markup Language
