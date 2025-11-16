@@ -22,7 +22,7 @@ $$\pmb{\varsigma}_{t} \sim \mathcal{N}\bigl(\mathbf{0}, \: \pmb{\mathcal{Z}}_{t}
 whereby
 
 | &nbsp;                | description                                                                          |
- |:----------------------|:-------------------------------------------------------------------------------------|
+|:----------------------|:-------------------------------------------------------------------------------------|
 | $y_{t}$               | $1 \times 1$ scalar.  Herein, it is a gauge's river level measure at time point $t$. |
 | $\pmb{x}_{t}$         | $p \times 1$.  A design vector.                                                      |
 | $\pmb{\beta}_{t}$     | $p \times 1$.  A state vector.                                                       |
