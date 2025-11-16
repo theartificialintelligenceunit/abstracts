@@ -58,6 +58,10 @@ nav = [
       "sections/dispatches/index.md",
       "sections/dispatches/background.md"
   ]},
+  { "Accident & Emergency" = [
+      "sections/ae/index.md",
+      "sections/ae/data.md"
+  ]},
   { "Orchestrate & Automate" = [
       "sections/automation/index.md",
       "sections/automation/background.md",
