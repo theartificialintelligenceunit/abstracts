@@ -14,6 +14,16 @@ This page summarises the orchestrations that underpin the automatic delivery of 
 <br>
 <br>
 
+## Warning
+
+### Continuous
+
+![warning continuous](../../images/hydrography-warning-continuous.png){ width='611px' }
+
+
+<br>
+<br>
+
 <br>
 <br>
 
