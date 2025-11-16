@@ -7,6 +7,10 @@ div.md-sidebar--primary {
     width: 225px;
 }
 
+.md-typeset abbr {
+    border-bottom: .1rem dotted #000000c4;
+}
+
 .md-typeset .grid {
     grid-gap: 2.1rem;
 }
