@@ -46,13 +46,23 @@ icon: lucide/rocking-chair
 
     [:octicons-arrow-right-24: README](#)
 
--   :material-scale-balance:{ .lg .middle } __AI/ML Dependent Systems__
+-   :material-scale-balance:{ .lg .middle } __Code of Practice__
 
     ---
 
     Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions.
 
     [:octicons-arrow-right-24: README](#)
+
+-   :material-scale-balance:{ .lg .middle } __Developing & Deploying ML/AI Dependent Systems__
+
+    ---
+
+    Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
+
+    [:octicons-arrow-right-24: README](#)
+
+
 
 </div>
 
