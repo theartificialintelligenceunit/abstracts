@@ -20,7 +20,7 @@ icon: lucide/rocking-chair
 
     Daily and on-demand river level intelligence vis-à-vis Scotland's rivers. 
 
-    [:octicons-arrow-right-24: README](./sections/hydrography/index.md)
+    <a data-preview href="sections/hydrography/">README</a>
 
 -   :material-format-font:{ .lg .middle } __Text/String Detection & Classification: Eclectic__
 
