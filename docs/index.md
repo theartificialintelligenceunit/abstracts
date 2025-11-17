@@ -50,7 +50,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions.
+    Notes vis-à-vis operating model; team & projects, development & delivery, security.
 
     [:octicons-arrow-right-24: README](#)
 
@@ -58,7 +58,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
+    [Notes](#) vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
 
     [:octicons-arrow-right-24: README](#)
 
