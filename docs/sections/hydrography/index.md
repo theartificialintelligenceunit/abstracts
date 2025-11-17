@@ -4,6 +4,12 @@ icon: lucide/microscope
 
 # River Levels
 
+This project's focus is readily available river level intelligence, e.g., raw measure curves, river level forecasts, weighted rates of change, etc., in aid of resilience activity, preventive action, and more.  Initially, predominantly, for officials aiding Scottish Government Resilience activities.
+
+<br>
+
+## In brief
+
 <table style="width: 85%; margin-left: 35px; vertical-align: top;">
   <colgroup>
       <col span="1" style="width: 13.5%;">
