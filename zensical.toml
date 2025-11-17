@@ -49,9 +49,9 @@ Copyright &copy; 2025 The Artificial Intelligence Unit
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "<img src='images/start.svg' alt='⾕'>" = "index.md" },
-  { "Token Classification:<br>Eclectic Classes" = [
-      "sections/few/index.md",
-      "sections/few/background.md"
+  { "A&E" = [
+      "sections/ae/index.md",
+      "sections/ae/data.md"
   ]},
   { "River Levels" = [
       "sections/hydrography/index.md",
@@ -65,9 +65,9 @@ nav = [
       "sections/dispatches/index.md",
       "sections/dispatches/background.md"
   ]},
-  { "Accident & Emergency" = [
-      "sections/ae/index.md",
-      "sections/ae/data.md"
+  { "Token Classification:<br>Eclectic" = [
+      "sections/few/index.md",
+      "sections/few/background.md"
   ]},
   { "Orchestrate & Automate" = [
       "sections/automation/index.md",
