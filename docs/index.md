@@ -12,7 +12,7 @@ icon: lucide/rocking-chair
 
     The fine-tuning of deep large language model architectures for token, i.e., specific text/string, detection and classification purposes.  An adaptable component for contextual redaction, criminal investigations, etc.
 
-    [:octicons-arrow-right-24: README](#)
+    <a data-preview href="sections/dispatches/">README</a>
 
 -   :material-water:{ .lg .middle } __River Level Intelligence__
 
@@ -20,7 +20,7 @@ icon: lucide/rocking-chair
 
     Continuous intelligence, including raw measures, river level forecasts, weighted rates of change, etc., in aid of resilience activity, preventive action, and more.
 
-    [:octicons-arrow-right-24: README](#)
+    [:octicons-arrow-right-24: README](./sections/hydrography/index.md)
 
 -   :material-format-font:{ .lg .middle } __Text/String Detection & Classification: Eclectic__
 
@@ -30,7 +30,7 @@ icon: lucide/rocking-chair
 
     [:octicons-arrow-right-24: README](#)
 
--   :fontawesome-solid-person-falling-burst:{ .lg .middle } __A & E__
+-   :fontawesome-solid-person-falling-burst:{ .lg .middle } __A&E__
 
     ---
 
