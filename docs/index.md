@@ -10,7 +10,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    The fine-tuning of deep large language model architectures for token, i.e., specific text/string, detection and classification purposes.  An adaptable component for contextual redaction, criminal investigations, etc.
+    Contextual text/string detection and classification; an adaptable component for contextual, and automatic, text/string identification redaction, criminal investigations, etc., purposes.
 
     <a data-preview href="sections/dispatches/">README</a>
 
@@ -26,7 +26,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    The fine-tuning of deep large language model architectures for token, i.e., specific text/string, detection and classification purposes.  An adaptable component for contextual redaction, criminal investigations, etc.
+    Contextual text/string detection and classification; an adaptable component for contextual, and automatic, text/string identification redaction, criminal investigations, etc., purposes.
 
     [:octicons-arrow-right-24: README](#)
 
