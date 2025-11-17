@@ -20,7 +20,7 @@ icon: lucide/microscope
     <td>BETA: <abbr title="Long Short-Term Memory">LSTM</abbr> Models</td>
     <td>Infrastructure funding ends at the end of November 2025, therefore the reinforcement learning models & metrics, i.e., long short-term memory, might never exist beyond beta.
       <ul>
-        <li>The latest LSTM <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-metrics-a.html">model</a> per gauge; select gauges.</li>
+        <li>The latest <abbr title="Long Short-Term Memory">LSTM</abbr> <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-metrics-a.html">model</a> per gauge; select gauges.</li>
         <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-metrics-b.html">Additional model metrics.</a></li>
         <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-inference.html">Inference</a></li>
       </ul>
