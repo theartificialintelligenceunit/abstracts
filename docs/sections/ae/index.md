@@ -4,6 +4,12 @@ icon: lucide/microscope
 
 # Accident & Emergency
 
+Investigating algorithms & models for accident & emergency attendance forecasts.
+
+<br>
+
+## In brief
+
 <table style="width: 85%; margin-left: 35px; vertical-align: top;">
   <colgroup>
       <col span="1" style="width: 13.5%;">
