@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-11-17T20:31:19.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="9Z0Nx2-asLV3y5IL4GvW" version="22.1.2" type="device" pages="9">
+<mxfile host="Electron" modified="2025-11-17T21:47:43.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="KkfStQ54tnzs8RCu7tJk" version="22.1.2" type="device" pages="9">
   <diagram name="dispatches-repositories" id="NKct0yvRwDZPGS5-LY1j">
     <mxGraphModel dx="1232" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -456,7 +456,7 @@
           <mxGeometry x="320.75" y="118.85000000000002" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="nuPcmdfXYfZQaeZSIs5t-1" value="" style="rounded=1;arcSize=6;dashed=1;fillColor=#000000;gradientColor=none;strokeWidth=1;dashPattern=1 4;fillStyle=dashed;opacity=30;strokeColor=none;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="692" y="282.75" width="106" height="87" as="geometry" />
+          <mxGeometry x="677" y="297.75" width="148" height="57.25" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="Local work station." id="nuPcmdfXYfZQaeZSIs5t-4">
           <mxCell style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.secure_endpoints;fillColor=#1A1A1A;strokeColor=none;" parent="1" vertex="1">
@@ -551,7 +551,7 @@
         </UserObject>
         <UserObject label="" link="https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html" tooltip="Amazon Step Functions" id="nuPcmdfXYfZQaeZSIs5t-44">
           <mxCell style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#1A1A1A;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.step_functions;rotation=0;perimeterSpacing=0;shadow=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-            <mxGeometry x="705" y="264" width="39" height="39" as="geometry" />
+            <mxGeometry x="686" y="286" width="19.5" height="19.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tooltip="Amazon Elastic Container Registry (ECR)" link="https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html" linkTarget="_blank" id="nuPcmdfXYfZQaeZSIs5t-45">
@@ -591,61 +591,61 @@
           </mxCell>
         </UserObject>
         <mxCell id="nuPcmdfXYfZQaeZSIs5t-53" value="&lt;ul style=&quot;font-size: 13px; line-height: 160%;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/cloudfront/pricing/&quot;&gt;CloudFront&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/waf/pricing/&quot;&gt;Web Application Firewall&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/s3/pricing/&quot;&gt;Simple Storage Service&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/ecr/pricing/&quot;&gt;Elastic Container Registry&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/fargate/pricing/&quot;&gt;Fargate&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/sns/pricing/&quot;&gt;Simple Notification Service&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/step-functions/pricing/&quot;&gt;Step Functions&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a href=&quot;https://aws.amazon.com/eventbridge/pricing/&quot;&gt;Amazon EventBridge&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;font-size: 13px;&quot; href=&quot;https://aws.amazon.com/vpc/pricing/&quot;&gt;Virtual Private Cloud&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="100" y="766" width="214" height="188" as="geometry" />
+          <mxGeometry x="110.68" y="530" width="214" height="188" as="geometry" />
         </mxCell>
         <mxCell id="nuPcmdfXYfZQaeZSIs5t-54" value="Amazon (Pricing Links)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="100" y="740" width="202" height="30" as="geometry" />
+          <mxGeometry x="110.68" y="504" width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuPcmdfXYfZQaeZSIs5t-55" value="Most of the diagram&#39;s objects have tooltips, and sometimes links; zoom-in and hover." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="110.68" y="40" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-1" value="" style="rounded=1;arcSize=6;dashed=1;fillColor=#000000;gradientColor=none;strokeWidth=1;dashPattern=1 4;fillStyle=dashed;opacity=30;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="894" y="500" width="289" height="419" as="geometry" />
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-1" value="" style="rounded=1;arcSize=6;dashed=1;fillColor=#000000;gradientColor=none;strokeWidth=1;dashPattern=1 4;fillStyle=dashed;opacity=30;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="873.5" y="401.5" width="180" height="419" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-4" target="nm8KeCs12EkC2jjtBPXD-6">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#333333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-4" target="nm8KeCs12EkC2jjtBPXD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-3" value="catch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" vertex="1" connectable="0" parent="nm8KeCs12EkC2jjtBPXD-2">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-3" value="catch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=11;" vertex="1" connectable="0" parent="nm8KeCs12EkC2jjtBPXD-2">
           <mxGeometry x="-0.1016" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="latest daily&amp;nbsp;&lt;div style=&quot;font-size: 13px;&quot;&gt;measures&lt;/div&gt;" tooltip="An ECS (Elastic Container Service) &lt;b&gt;Fargate&lt;/b&gt; tasks that &lt;b&gt;(a)&lt;/b&gt; retrieves the latest measures, &lt;b&gt;(b)&lt;/b&gt; structures the data, and &lt;b&gt;(c)&lt;/b&gt; delivers the data to an Amazon S3 (Simple Storage Service) bucket." id="nm8KeCs12EkC2jjtBPXD-4">
-          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#333333;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=right;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;rotation=0;labelPosition=left;spacingLeft=-10;spacingRight=0;spacingTop=-20;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
-            <mxGeometry x="1012" y="591.75" width="35" height="35" as="geometry" />
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#333333;strokeColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;rotation=0;labelPosition=center;spacingLeft=-10;spacingRight=0;spacingTop=-20;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
+            <mxGeometry x="863" y="591.75" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="quantiles" tooltip="An ECS (Elastic Container Service) Fargate tasks that calculates the quantiles of each day&#39;s, and each sensor&#39;s, distinct measures." id="nm8KeCs12EkC2jjtBPXD-5">
-          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#333333;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=left;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;rotation=0;labelPosition=right;spacingBottom=0;spacingLeft=-15;spacingTop=-5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
-            <mxGeometry x="1101" y="700.5" width="35" height="35" as="geometry" />
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#333333;strokeColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=left;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;rotation=0;labelPosition=right;spacingBottom=0;spacingLeft=-15;spacingTop=-5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
+            <mxGeometry x="971" y="542" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="notify:&amp;nbsp;&lt;div style=&quot;font-size: 13px;&quot;&gt;failure&lt;/div&gt;" link="https://docs.aws.amazon.com/sns/latest/dg/welcome.html" linkTarget="_blank" tooltip="Simple Notification Service" id="nm8KeCs12EkC2jjtBPXD-6">
-          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;rotation=0;labelPosition=left;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
-            <mxGeometry x="948" y="775" width="35" height="35" as="geometry" />
+        <UserObject label="notify:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;failure&lt;/span&gt;" link="https://docs.aws.amazon.com/sns/latest/dg/welcome.html" linkTarget="_blank" tooltip="Simple Notification Service" id="nm8KeCs12EkC2jjtBPXD-6">
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;rotation=0;labelPosition=center;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
+            <mxGeometry x="1016" y="638" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-5" target="nm8KeCs12EkC2jjtBPXD-9">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-5" target="nm8KeCs12EkC2jjtBPXD-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1119" y="754" as="sourcePoint" />
-            <mxPoint x="1079.5" y="828" as="targetPoint" />
+            <mxPoint x="1014" y="754" as="sourcePoint" />
+            <mxPoint x="974.5" y="828" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-6" target="nm8KeCs12EkC2jjtBPXD-9">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-6" target="nm8KeCs12EkC2jjtBPXD-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="996" y="955" as="targetPoint" />
+            <mxPoint x="942" y="892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nm8KeCs12EkC2jjtBPXD-9" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rotation=0;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=13;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="863" width="20" height="20" as="geometry" />
+          <mxGeometry x="1132" y="593.75" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-4" target="nm8KeCs12EkC2jjtBPXD-5">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-4" target="nm8KeCs12EkC2jjtBPXD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-5" target="nm8KeCs12EkC2jjtBPXD-6">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-5" target="nm8KeCs12EkC2jjtBPXD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-12" value="catch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" vertex="1" connectable="0" parent="nm8KeCs12EkC2jjtBPXD-11">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-12" value="catch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=11;" vertex="1" connectable="0" parent="nm8KeCs12EkC2jjtBPXD-11">
           <mxGeometry x="0.0597" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -653,20 +653,20 @@
         <mxCell id="nm8KeCs12EkC2jjtBPXD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-14" target="nm8KeCs12EkC2jjtBPXD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-14" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rotation=0;fillColor=#000000;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1019.5" y="532" width="20" height="20" as="geometry" />
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-14" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rotation=0;fillColor=#000000;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="775" y="599" width="20" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html" tooltip="Amazon Step Functions" id="nm8KeCs12EkC2jjtBPXD-15">
           <mxCell style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#1A1A1A;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.step_functions;rotation=0;perimeterSpacing=0;shadow=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
-            <mxGeometry x="926" y="480" width="39" height="39" as="geometry" />
+            <mxGeometry x="779" y="500" width="39" height="39" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tooltip="An Amazon EventBridge schedule runs the state machine daily." link="https://docs.aws.amazon.com/eventbridge/latest/userguide/using-eventbridge-scheduler.html" id="nm8KeCs12EkC2jjtBPXD-16">
           <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;rotation=0;" vertex="1" parent="1">
-            <mxGeometry x="1012" y="442" width="35" height="35" as="geometry" />
+            <mxGeometry x="678" y="591.5" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nm8KeCs12EkC2jjtBPXD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-16" target="nm8KeCs12EkC2jjtBPXD-14">
+        <mxCell id="nm8KeCs12EkC2jjtBPXD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#333333;" edge="1" parent="1" source="nm8KeCs12EkC2jjtBPXD-16" target="nm8KeCs12EkC2jjtBPXD-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nm8KeCs12EkC2jjtBPXD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.22;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z8mRQ2fd8AZqod08Xd9v-3" target="nuPcmdfXYfZQaeZSIs5t-51">
@@ -678,8 +678,8 @@
         </mxCell>
         <mxCell id="nm8KeCs12EkC2jjtBPXD-19" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="814" y="383" as="sourcePoint" />
-            <mxPoint x="880" y="470" as="targetPoint" />
+            <mxPoint x="798" y="380" as="sourcePoint" />
+            <mxPoint x="798" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0QvpgEQCaiYyQl2TfbmC-1" value="Deployment" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#333333;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=0.5;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=11;spacingTop=0;fontStyle=1;spacingBottom=-9;" vertex="1" parent="1">
