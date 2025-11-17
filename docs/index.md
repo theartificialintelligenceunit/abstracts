@@ -18,7 +18,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Continuous intelligence, including raw measures, river level forecasts, weighted rates of change, etc., in aid of resilience activity, preventive action, and more.
+    Daily and on-demand river level intelligence vis-à-vis Scotland's rivers. 
 
     [:octicons-arrow-right-24: README](./sections/hydrography/index.md)
 
