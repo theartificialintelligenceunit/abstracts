@@ -2,11 +2,13 @@
 icon: lucide/microscope
 ---
 
-# Token Classification: Eclectic Classes
+# Token Classification: Eclectic[^1]
 
-Token Classification; Herein, token classification is the detection and classification of text or strings via fine-tuned large language model architectures. Each model detects and classifies text or strings of vis-à-vis a set of classes.
+A second project focusing on text/string detection & classification; cf. <a data-preview href="../../sections/dispatches/">dispatches</a>.  It fine-tunes a large language model architecture. Herein, the model depends on a different text tagging scheme, and a different data set; it also focuses in a different set of classes.  For more details visit the <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">project's online hub</a>.
 
 <br>
+
+## In brief
 
 <table style="width: 85%; margin-left: 35px; vertical-align: top;">
   <colgroup>
@@ -24,7 +26,7 @@ Token Classification; Herein, token classification is the detection and classifi
     <td>
       <a href="https://greyhypotheses-detecting-eclectic.hf.space" onclick="window.open('https://greyhypotheses-detecting-eclectic.hf.space', 'newwindow', 'width=1199 5,height=690'); return false;">app</a>
     </td>
-    <td>A simple interface for interacting with the developed model; an endless number of interface designs are possible.  The classes in focus are <b>art</b>, <b>building</b>, <b>event</b>, <b>geo-political entity</b>, <b>organisation</b>, and <b>weapon</b></td>
+    <td>A simple interface for interacting with the developed model; an endless number of interface designs are possible.  The classes in focus are <b>art</b>, <b>building</b>, <b>event</b>, <b>geo-political entity</b>, <b>organisation</b>, and <b>weapon</b>.</td>
     <td></td>
   </tr>
   <tr>
@@ -34,8 +36,6 @@ Token Classification; Herein, token classification is the detection and classifi
   </tr>
 </table>
 
-
-
 <br>
 <br>
 
@@ -47,3 +47,9 @@ Token Classification; Herein, token classification is the detection and classifi
 
 <br>
 <br>
+
+[^1]: Herein, token classification is the detection and classification of text or strings via fine-tuned large language model architectures. Each model detects and classifies text or strings of vis-à-vis a set of classes.
+
+<br>
+<br>
+
