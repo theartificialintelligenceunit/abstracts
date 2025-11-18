@@ -52,15 +52,15 @@ icon: lucide/rocking-chair
 
     Notes vis-à-vis operating norms, development & delivery, security.
 
-    [:octicons-arrow-right-24: README](#)
+    <div style="font-variant: small-caps">HUB</div>
 
 -   :material-scale-balance:{ .lg .middle } __Developing & Deploying ML/AI Dependent Systems__
 
     ---
 
-    [Notes](#) vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
+    Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
 
-    [:octicons-arrow-right-24: README](#)
+    <div style="font-variant: small-caps">HUB</div>
 
 </div>
 
