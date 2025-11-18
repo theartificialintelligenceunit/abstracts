@@ -50,7 +50,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Notes vis-à-vis operating model; team & projects, development & delivery, security.
+    Notes vis-à-vis operating norms, development & delivery, security.
 
     [:octicons-arrow-right-24: README](#)
 
