@@ -50,7 +50,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Notes vis-à-vis operating norms, development & delivery, security.
+    Notes vis-à-vis <a href="../../../images/practice-operating-norms.html" onclick="window.open('../../../images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, development & delivery, security.
 
     <div style="font-variant: small-caps">HUB</div>
 
