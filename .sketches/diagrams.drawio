@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-11-18T01:23:05.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="oEj3krzkCANW_BXIgzpy" version="22.1.2" type="device" pages="10">
+<mxfile host="Electron" modified="2025-11-18T01:26:59.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="t1saMcOZPkeulyjvne-v" version="22.1.2" type="device" pages="10">
   <diagram name="dispatches-repositories" id="NKct0yvRwDZPGS5-LY1j">
     <mxGraphModel dx="1232" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MDvdnThm36BSpXSdeNSR" name="operating-norms">
+  <diagram id="MDvdnThm36BSpXSdeNSR" name="practice-operating-norms">
     <mxGraphModel dx="1232" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -736,7 +736,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NXAzITTbKPAdTL11d5bM" name="development-and-delivery">
+  <diagram id="NXAzITTbKPAdTL11d5bM" name="practice-development-and-delivery">
     <mxGraphModel dx="1232" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -895,7 +895,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8uVGNt5yLK5tGlWVPS0O" name="security">
+  <diagram id="8uVGNt5yLK5tGlWVPS0O" name="practice-security">
     <mxGraphModel dx="1232" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
