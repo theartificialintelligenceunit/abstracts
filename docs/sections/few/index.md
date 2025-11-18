@@ -6,6 +6,8 @@ icon: lucide/microscope
 
 A second project focusing on text/string detection & classification; cf. <a data-preview href="../../sections/dispatches/">dispatches</a>.  It fine-tunes a large language model architecture. Herein, the model depends on a different text tagging scheme, and a different data set; it also focuses in a different set of classes.  For more details visit the <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">project's online hub</a>.
 
+Contextual text/string detection and classification; an adaptable component for contextual, and automatic, text/string identification redaction, criminal investigations, etc., purposes.
+
 <br>
 
 ## In brief
