@@ -6,6 +6,8 @@ icon: lucide/microscope
 
 This project develops a text/string detection & classification model by fine-tuning large language model architectures. Each model detects and classifies text or strings of vis-à-vis a set of classes.  The model depends on **Reuters International News Bulletins** of a specific time period, therefore the data's timeliness and context will impact its performance in various settings.
 
+Contextual text/string detection and classification; an adaptable component for contextual, and automatic, text/string identification redaction, criminal investigations, etc., purposes.
+
 <br>
 
 ## In brief
