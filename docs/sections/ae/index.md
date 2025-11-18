@@ -4,7 +4,7 @@ icon: lucide/microscope
 
 # Accident & Emergency
 
-Investigating algorithms & models for accident & emergency attendance forecasts.
+The focus herein is accident & emergency attendance forecasting.  The focus is on Scotland's accident & emergency centres; specifically those that provide <a data-preview href="http://127.0.0.1:8000/abstracts/sections/ae/data/#sources">weekly counts</a>, presently the most granular level available via Public Health Scotland.
 
 <br>
 
