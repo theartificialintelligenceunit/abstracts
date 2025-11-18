@@ -4,7 +4,7 @@ icon: lucide/microscope
 
 # Orchestrate & Automate
 
-Illustrating orchestration and automation.
+Illustrating orchestration and automation, within a continuous integration & delivery setting.
 
 <br>
 
