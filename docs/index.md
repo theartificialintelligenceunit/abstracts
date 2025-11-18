@@ -10,7 +10,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Contextual text/string detection and classification; an adaptable component for contextual, and automatic, text/string identification redaction, criminal investigations, etc., purposes.
+    Contextual text/string detection and classification.
 
     <a data-preview href="sections/dispatches/">README</a>
 
@@ -26,25 +26,25 @@ icon: lucide/rocking-chair
 
     ---
 
-    Contextual text/string detection and classification; an adaptable component for contextual, and automatic, text/string identification redaction, criminal investigations, etc., purposes.
+    Contextual text/string detection and classification.
 
-    [:octicons-arrow-right-24: README](#)
+    <a data-preview href="sections/few/">README</a>
 
 -   :fontawesome-solid-person-falling-burst:{ .lg .middle } __A&E__
 
     ---
 
-    Forecasting $\ldots$
+    Forecasting accident and emergency attendance in Scotland.
 
-    [:octicons-arrow-right-24: README](#)
+    <a data-preview href="sections/ae/">README</a>
 
 -   :fontawesome-solid-robot:{ .lg .middle } __Orchestration & Automation__
 
     ---
 
-    A simple illustration of orchestrating and automating an end-to-end solution within a continuous integration & delivery setting.
+    Illustrating efficient, cost effective, and secure delivery of an end-to-end solutions.
 
-    [:octicons-arrow-right-24: README](#)
+    <a data-preview href="sections/automation/">README</a>
 
 -   :material-scale-balance:{ .lg .middle } __Code of Practice__
 
@@ -61,8 +61,6 @@ icon: lucide/rocking-chair
     [Notes](#) vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
 
     [:octicons-arrow-right-24: README](#)
-
-
 
 </div>
 
