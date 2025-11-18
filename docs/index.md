@@ -50,9 +50,9 @@ icon: lucide/rocking-chair
 
     ---
 
-    Notes vis-à-vis <a href="../../../images/practice-operating-norms.html" onclick="window.open('../../../images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, development & delivery, security.
+    Notes vis-à-vis <a href="../../../images/practice-operating-norms.html" onclick="window.open('../../../images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, <a href="../../../images/practice-development-and-delivery.html" onclick="window.open('../../../images/practice-development-and-delivery.html', 'newwindow', 'width=1450,height=790'); return false;">development & delivery</a>, security.
 
-    <div style="font-variant: small-caps">HUB</div>
+    <span style="font-variant: small-caps; color: grey">[HUB]</span>
 
 -   :material-scale-balance:{ .lg .middle } __Developing & Deploying ML/AI Dependent Systems__
 
@@ -60,7 +60,7 @@ icon: lucide/rocking-chair
 
     Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
 
-    <div style="font-variant: small-caps">HUB</div>
+    <span style="font-variant: small-caps; color: grey">[HUB]</span>
 
 </div>
 
@@ -75,3 +75,16 @@ icon: lucide/rocking-chair
 
 <br>
 <br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
