@@ -50,7 +50,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Notes vis-à-vis <a href="../../../images/practice-operating-norms.html" onclick="window.open('../../../images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, <a href="../../../images/practice-development-and-delivery.html" onclick="window.open('../../../images/practice-development-and-delivery.html', 'newwindow', 'width=1450,height=790'); return false;">development & delivery</a>, security.
+    Notes vis-à-vis <a href="../../../images/practice-operating-norms.html" onclick="window.open('../../../images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, <a href="../../../images/practice-development-and-delivery.html" onclick="window.open('../../../images/practice-development-and-delivery.html', 'newwindow', 'width=1450,height=790'); return false;">development & delivery</a>, <a href="../../../images/practice-security.html" onclick="window.open('../../../images/practice-security.html', 'newwindow', 'width=1450,height=790'); return false;">security</a>.
 
     <span style="font-variant: small-caps; color: grey">[HUB]</span>
 
