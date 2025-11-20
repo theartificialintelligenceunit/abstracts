@@ -42,7 +42,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Illustrating efficient, cost effective, and secure delivery of an end-to-end solutions.
+    Illustrating an efficient, cost effective, and secure delivery of an end-to-end solution.
 
     <a data-preview href="sections/automation/">README</a>
 
