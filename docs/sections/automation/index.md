@@ -4,7 +4,7 @@ icon: lucide/microscope
 
 # Orchestrate & Automate
 
-Illustrating orchestration and automation, within a continuous integration & delivery setting.
+An illustration of continuous integration, deployment, and delivery via an end-to-end solution that publishes the latest daily quantiles distributions of nitrogen dioxide levels; automatically & daily.  The orchestration & automation design considers/addresses efficiency, cost effectiveness, and security.
 
 <br>
 
