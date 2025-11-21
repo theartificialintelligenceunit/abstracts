@@ -52,7 +52,7 @@ Copyright &copy; 2025 Data Science Team / Artificial Intelligence Unit / Scottis
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "<img src='https://theartificialintelligenceunit.github.io/abstracts/images/start.svg' alt='Introduction'>" = "index.md" },
+  { "<img src='https://theartificialintelligenceunit.github.io/abstracts/site/images/start.svg' alt='Introduction'>" = "index.md" },
   { "A&E" = [
       "sections/ae/index.md",
       "sections/ae/data.md"
