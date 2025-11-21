@@ -2,7 +2,7 @@
 icon: lucide/rocking-chair
 ---
 
-# Artificial Intelligence Unit
+# Projects, etc.
 
 <div class="grid cards" markdown>
 
