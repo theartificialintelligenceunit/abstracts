@@ -12,7 +12,7 @@ icon: lucide/rocking-chair
 
     Contextual text/string detection and classification.
 
-    <a data-preview href="sections/dispatches/">README</a>
+    [README](sections/dispatches/){ data-preview }
 
 -   :material-water:{ .lg .middle } __River Level Intelligence__
 
