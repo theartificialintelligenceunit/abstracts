@@ -26,6 +26,11 @@ An illustration of continuous integration, deployment, and delivery via an end-t
     <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
     <td></td>
   </tr>
+  <tr>
+    <td>Objective</td>
+    <td>To aid upcoming/future data platform team, etc., projects.</td>
+    <td></td>
+  </tr>
 </table>
 
 <br>
