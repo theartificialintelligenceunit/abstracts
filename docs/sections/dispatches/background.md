@@ -10,7 +10,7 @@ In brief.  Organisations identify or detect words/strings of interest within doc
 
 A viable solution-strategy involves the creation of custom models via <i>named entity recognition</i> machine learning algorithms; also known as token classification algorithms. These algorithms can be trained by domain or problem, leading to compact, domain specific, word/string detection models.
 
-This project publishes an adaptable token classification modelling set-up, i.e., artificial/machine learning engineers can fork and adapt the repositories to their $(a)$ token classification problem, $(b)$ development environment, and $(c)$ the <a href="https://github.com/membranes/text/blob/master/src/models/interface.py#L70">range of language models</a> that they would like to try.
+This project publishes an adaptable token classification modelling set-up, i.e., artificial/machine learning engineers can fork and adapt the repositories to their <b>(a)</b> token classification problem, <b>(b)</b> development environment, and <b>(c)</b> the <a href="https://github.com/membranes/text/blob/master/src/models/interface.py#L70">range of language models</a> that they would like to try.
 
 <br>
 <br>
