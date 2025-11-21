@@ -53,7 +53,7 @@ nav = [
       "sections/ae/index.md",
       "sections/ae/data.md"
   ]},
-  { "River Levels" = [
+  { "River Level<br>Intelligence" = [
       "sections/hydrography/index.md",
       "sections/hydrography/background.md",
       "sections/hydrography/data.md",
