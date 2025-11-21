@@ -67,7 +67,11 @@ nav = [
   ]},
   { "Token Classification:<br>Dispatches" = [
       "sections/dispatches/index.md",
-      "sections/dispatches/background.md"
+      "sections/dispatches/background.md",
+      "sections/dispatches/data.md",
+      "sections/dispatches/models.md",
+      "sections/dispatches/inventory.md",
+      "sections/dispatches/case.md"
   ]},
   { "Token Classification:<br>Eclectic" = [
       "sections/few/index.md",
