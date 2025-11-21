@@ -46,6 +46,15 @@ icon: lucide/rocking-chair
 
     <a data-preview href="sections/automation/">README</a>
 
+</div>
+
+<br>
+<br>
+
+Notes aiding project delivery:
+
+<div class="grid cards" markdown>
+
 -   :material-scale-balance:{ .lg .middle } __Code of Practice__
 
     ---
@@ -60,7 +69,7 @@ icon: lucide/rocking-chair
 
     Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
 
-    <span style="font-variant: small-caps; color: grey">[HUB]</span>
+    <span style="font-variant: small-caps; color: grey">[HUB]</span>    
 
 </div>
 
