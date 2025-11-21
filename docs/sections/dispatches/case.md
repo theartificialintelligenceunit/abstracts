@@ -1,8 +1,12 @@
-
+---
+icon: lucide/hand-coins
+---
 
 # Applications
 
 This section outlines a sample $(a)$ problem statement, $(b)$ corresponding outcome expectations/underlying aims, and $(c)$ deployment goal vis-à-vis token classification model development.
+
+<br>
 
 ## Problem Statement
 
