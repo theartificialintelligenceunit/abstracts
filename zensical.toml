@@ -14,7 +14,7 @@ site_dir = "site"
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Abstracts"
+site_name = "Data Science Team / Artificial Intelligence Unit"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -37,7 +37,7 @@ site_url = "https://theartificialintelligenceunit.github.io/abstracts"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2025 The Artificial Intelligence Unit
+Copyright &copy; 2025 Data Science Team / Artificial Intelligence Unit / Scottish Government
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
