@@ -10,11 +10,13 @@
 
 docs_dir = "docs"
 site_dir = "site"
+repo_url = "https://github.com/theartificialintelligenceunit/abstracts"
+repo_name = "theartificialintelligenceunit/abstracts"
 
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Abstracts"
+site_name = "Data Science Team / Artificial Intelligence Unit"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -37,7 +39,7 @@ site_url = "https://theartificialintelligenceunit.github.io/abstracts"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2025 The Artificial Intelligence Unit
+Copyright &copy; 2025 Data Science Team / Artificial Intelligence Unit / Scottish Government
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -53,7 +55,7 @@ nav = [
       "sections/ae/index.md",
       "sections/ae/data.md"
   ]},
-  { "River Levels" = [
+  { "River Level<br>Intelligence" = [
       "sections/hydrography/index.md",
       "sections/hydrography/background.md",
       "sections/hydrography/data.md",
@@ -105,8 +107,6 @@ extra_javascript = [
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-repo_url = "https://github.com/theartificialintelligenceunit/abstracts"
-repo_name = "theartificialintelligenceunit/abstracts"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 # variant = "classic"
@@ -119,7 +119,7 @@ repo_name = "theartificialintelligenceunit/abstracts"
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-# custom_dir = "overrides"
+custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -199,7 +199,7 @@ features = [
     # With this feature enabled, Zensical will automatically hide parts
     # of the header when the user scrolls past a certain point.
     # https://zensical.org/docs/setup/header/#automatic-hiding
-    # "header.autohide",
+    "header.autohide",
 
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.

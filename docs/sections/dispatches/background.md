@@ -42,9 +42,9 @@ The `text` package will be re-written, if funding permitting.  The
 <br>
 <br>
 
-## Plausible Application
+## Sample Application
 
-This section outlines a plausible $(a)$ problem statement, $(b)$ corresponding outcome expectations/underlying aims, and $(c)$ deployment goal vis-à-vis token classification model development.
+This section outlines a sample $(a)$ problem statement, $(b)$ corresponding outcome expectations/underlying aims, and $(c)$ deployment goal vis-à-vis token classification model development.
 
 ### Problem Statement
 

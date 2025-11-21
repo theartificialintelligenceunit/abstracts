@@ -21,6 +21,18 @@ Subsequently, launch a web server, i.e., `zensical server`, via
 zensical serve -a 0.0.0.0:8000
 ```
 
+or build
+
+```shell
+zensical build
+```
+
+or clean
+
+```shell
+zensical build --clean
+```
+
 <br>
 
 ### Remote Development

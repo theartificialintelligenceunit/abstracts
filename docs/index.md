@@ -2,7 +2,7 @@
 icon: lucide/rocking-chair
 ---
 
-# Artificial Intelligence Unit
+# Projects, etc.
 
 <div class="grid cards" markdown>
 
@@ -42,9 +42,18 @@ icon: lucide/rocking-chair
 
     ---
 
-    Illustrating efficient, cost effective, and secure delivery of an end-to-end solutions.
+    Illustrating continuous development & delivery via a simple, efficient, cost effective, and secure end-to-end solution.
 
     <a data-preview href="sections/automation/">README</a>
+
+</div>
+
+<br>
+<br>
+
+Notes aiding project delivery:
+
+<div class="grid cards" markdown>
 
 -   :material-scale-balance:{ .lg .middle } __Code of Practice__
 
@@ -60,7 +69,7 @@ icon: lucide/rocking-chair
 
     Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.
 
-    <span style="font-variant: small-caps; color: grey">[HUB]</span>
+    <span style="font-variant: small-caps; color: grey">[HUB]</span>    
 
 </div>
 

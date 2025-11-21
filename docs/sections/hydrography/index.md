@@ -26,8 +26,7 @@ This project's focus is readily available river level intelligence, e.g., raw me
     <td>BETA: <abbr title="Long Short-Term Memory">LSTM</abbr> Models</td>
     <td>Infrastructure funding ends at the end of November 2025, therefore the reinforcement learning models & metrics, i.e., long short-term memory, might never exist beyond beta.
       <ul>
-        <li>The latest <abbr title="Long Short-Term Memory">LSTM</abbr> <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-metrics-a.html">model</a> per gauge; select gauges.</li>
-        <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-metrics-b.html">Additional model metrics.</a></li>
+        <li>Models: Each <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-estimates.html" onclick="window.open('https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-estimates.html', 'newwindow', 'width=900,height=895'); return false;">point estimates</a>, and their training & testing stage (a) <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-percent-error.html" onclick="window.open('https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-percent-error.html', 'newwindow', 'width=900,height=625'); return false;">point percentage errors distributions</a>, (b) <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-median-percent-error.html" onclick="window.open('https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-median-percent-error.html', 'newwindow', 'width=900,height=595'); return false;">median percentage error</a>, and (c) <a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-root-median-se.html" onclick="window.open('https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-root-median-se.html', 'newwindow', 'width=900,height=595'); return false;">root median square error</a></li>
         <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/_arc-rnn-lstm-inference.html">Inference</a></li>
       </ul>
     </td>
