@@ -48,9 +48,11 @@ Copyright &copy; 2025 Data Science Team / Artificial Intelligence Unit / Scottis
 # "docs_dir". The definition below demonstrates how a navigation structure
 # can be defined using TOML syntax.
 #
+# ⾕
+#
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "<img src='images/start.svg' alt='⾕'>" = "index.md" },
+  { "<img src='images/start.svg' alt='Introduction'>" = "index.md" },
   { "A&E" = [
       "sections/ae/index.md",
       "sections/ae/data.md"
@@ -71,7 +73,7 @@ nav = [
       "sections/few/index.md",
       "sections/few/background.md"
   ]},
-  { "Orchestrate & Automate" = [
+  { "Orchestrate<br>& Automate" = [
       "sections/automation/index.md",
       "sections/automation/background.md",
       "sections/automation/notes.md"
