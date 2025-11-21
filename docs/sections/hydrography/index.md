@@ -33,6 +33,11 @@ This project's focus is readily available river level intelligence, e.g., raw me
     <td></td>
   </tr>
   <tr>
+    <td>Future</td>
+    <td><abbr title="Scottish Environment Protection Agency">SEPA</abbr> colleagues are investigating how to (a) build on, integrate the items of, this project, and (b) how to support the resilience team.</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/repatterning" target="_blank">Repositories Hub</a></td>
     <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
     <td></td>
