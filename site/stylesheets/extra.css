@@ -36,5 +36,13 @@ div.md-sidebar--primary {
 }
 
 .md-tabs__item {
-    height: 2.99rem;
+    height: 3.25rem;
+    padding-top: 0.5rem;
+}
+
+.md-tabs__item {
+    margin-left: 0.6rem;
+    margin-right: 1.0rem;
+    padding-left: 0;
+    padding-right: 0;
 }
