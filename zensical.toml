@@ -382,6 +382,3 @@ auto_append = ["includes/abbreviations.md"]
 # Permalink
 [project.markdown_extensions.toc]
 permalink =  true
-
-# Previews
-[project.markdown_extensions.zensical.extensions.preview]
