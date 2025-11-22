@@ -22,7 +22,7 @@ site_name = "Applied Artificial Intelligence"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "Applied artifical intelligence, i.e., machine learning, at the Scottish Government"
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -39,7 +39,7 @@ site_url = "https://theartificialintelligenceunit.github.io/abstracts"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2025 Data Science Team / Artificial Intelligence Unit / Scottish Government
+2025, <i>Applied Artificial Intelligence/Machine Learning</i> @ <s>Artificial Intelligence Unit</s> / Scottish Government
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -52,7 +52,7 @@ Copyright &copy; 2025 Data Science Team / Artificial Intelligence Unit / Scottis
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "<img src='https://theartificialintelligenceunit.github.io/abstracts/site/images/start.svg' alt='Introduction'>" = "index.md" },
+  { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
   { "A&E" = [
       "sections/ae/index.md",
       "sections/ae/data.md"
