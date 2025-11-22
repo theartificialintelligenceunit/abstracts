@@ -6,11 +6,11 @@ icon: lucide/rocking-chair
 
 <div class="grid cards" markdown>
 
--   :material-format-font:{ .lg .middle } __Text/String Detection & Classification: Dispatches__
+-   :material-format-font:{ .lg .middle } __Token/String Detection & Classification: Dispatches__
 
     ---
 
-    Contextual text/string detection and classification.
+    Contextual token/string detection and classification.
 
     [README](sections/dispatches/){ data-preview }
 
@@ -22,15 +22,15 @@ icon: lucide/rocking-chair
 
     <a data-preview href="sections/hydrography/">README</a>
 
--   :material-format-font:{ .lg .middle } __Text/String Detection & Classification: Eclectic__
+-   :material-format-font:{ .lg .middle } __Token/String Detection & Classification: Eclectic__
 
     ---
 
-    Contextual text/string detection and classification.
+    Contextual token/string detection and classification.
 
-    <a data-preview href="sections/few/">README</a>
+    [README](sections/few/){ data-preview }
 
--   :fontawesome-solid-person-falling-burst:{ .lg .middle } __A&E__
+- :fontawesome-solid-person-falling-burst:{ .lg .middle } __A&E__
 
     ---
 
@@ -59,9 +59,9 @@ Notes aiding project delivery:
 
     ---
 
-    Notes vis-à-vis <a href="images/practice-operating-norms.html" onclick="window.open('images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, <a href="images/practice-development-and-delivery.html" onclick="window.open('images/practice-development-and-delivery.html', 'newwindow', 'width=1450,height=790'); return false;">development & delivery</a>, <a href="images/practice-security.html" onclick="window.open('images/practice-security.html', 'newwindow', 'width=1450,height=790'); return false;">security</a>.
+    Notes vis-à-vis <a href="images/practice-operating-norms.html" onclick="window.open('images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, <a href="images/practice-development-and-delivery.html" onclick="window.open('images/practice-development-and-delivery.html', 'newwindow', 'width=1450,height=790'); return false;">development & delivery</a>, <a href="images/practice-security.html" onclick="window.open('images/practice-security.html', 'newwindow', 'width=1450,height=790'); return false;">security</a>.<br><br>
 
-    <span style="font-variant: small-caps; color: grey">[HUB]</span>
+    <p style="font-variant: small-caps; color: grey"><a href="https://theartificialintelligenceunit.github.io/practice/" target="_blank">README</a></p>
 
 -   :material-scale-balance:{ .lg .middle } __Developing & Deploying ML/AI Dependent Systems__
 
@@ -73,8 +73,6 @@ Notes aiding project delivery:
 
 </div>
 
-<br>
-<br>
 
 <br>
 <br>
@@ -90,10 +88,3 @@ Notes aiding project delivery:
 
 <br>
 <br>
-
-<br>
-<br>
-
-<br>
-<br>
-
