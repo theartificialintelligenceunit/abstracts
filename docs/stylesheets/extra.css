@@ -35,6 +35,10 @@ div.md-sidebar--primary {
     color: #423f3fe8;
 }
 
+.md-typeset h2 + h3 {
+    margin-top: 1.25em;
+}
+
 .md-tabs__item {
     height: 3.25rem;
     padding-top: 0.5rem;
@@ -45,4 +49,14 @@ div.md-sidebar--primary {
     margin-right: 1.0rem;
     padding-left: 0;
     padding-right: 0;
+}
+
+.md-typeset .highlighttable {
+    direction: ltr;
+    margin: 1em 0 1em 1.25em;
+}
+
+.md-header {
+    margin-top: 25px;
+    height: 2.5rem;
 }
