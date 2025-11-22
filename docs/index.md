@@ -26,7 +26,7 @@ icon: lucide/rocking-chair
 
     ---
 
-    Contextual token/string detection and classification.
+    Contextual token/string detection and classification; towards <i>token/string classification</i> + <i>syntactic parsing</i> &Rarr; <i>knowledge graph</i>.
 
     [README](sections/few/){ data-preview }
 
