@@ -51,6 +51,11 @@ div.md-sidebar--primary {
     padding-right: 0;
 }
 
+.md-nav__link svg {
+    height: 1.15rem;
+    padding-top: 0.135rem;
+}
+
 .md-typeset .highlighttable {
     direction: ltr;
     margin: 1em 0 1em 1.25em;
