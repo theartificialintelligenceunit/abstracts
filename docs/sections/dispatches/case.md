@@ -40,11 +40,9 @@ Underlying aims &Rarr;
 
 ## Deployment Goal
 
-A potential machine learning dependent project without a deployment goal is directionless, do not proceed without one.  
+A potential machine learning dependent project without a deployment goal is directionless, do not proceed without one.  A plausible deployment goal:<br><br>
 
-!!! note "A plausible deployment goal"
-    
-    ![deployment goal](../../images/dispatches-deployment-goal.png){ width='596px' }
+![deployment goal](../../images/dispatches-deployment-goal.png){ width='596px' }
 
 <br>
 <br>
