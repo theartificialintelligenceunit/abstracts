@@ -3,6 +3,10 @@ td {
     word-wrap: break-word;
 }
 
+.md-banner {
+    background-color: #ffffff;
+}
+
 div.md-sidebar--primary {
     width: 225px;
 }
