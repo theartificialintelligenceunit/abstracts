@@ -57,7 +57,7 @@ nav = [
       "sections/ae/index.md",
       "sections/ae/data.md"
   ]},
-  { "River Level<br>Intelligence" = [
+  { "Rivers" = [
       "sections/hydrography/index.md",
       "sections/hydrography/background.md",
       "sections/hydrography/data.md",
@@ -65,7 +65,7 @@ nav = [
       "sections/hydrography/models.md",
       "sections/hydrography/ci.md"
   ]},
-  { "Token Classification:<br>Dispatches" = [
+  { "TC: Dispatches" = [
       "sections/dispatches/index.md",
       "sections/dispatches/background.md",
       "sections/dispatches/data.md",
@@ -73,7 +73,7 @@ nav = [
       "sections/dispatches/inventory.md",
       "sections/dispatches/case.md"
   ]},
-  { "Token Classification:<br>Eclectic" = [
+  { "TC: Eclectic" = [
       "sections/few/index.md",
       "sections/few/background.md"
   ]},
