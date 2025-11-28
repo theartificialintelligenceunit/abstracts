@@ -28,7 +28,7 @@ An illustration of continuous integration, deployment, and delivery via an end-t
   </tr>
   <tr>
     <td>Objective</td>
-    <td>To aid upcoming/future data platform team, etc., projects.</td>
+    <td>In aid of upcoming/future data platform team, etc., orchestration & automation dependent projects.</td>
     <td></td>
   </tr>
 </table>
