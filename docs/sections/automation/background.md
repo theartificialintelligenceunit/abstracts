@@ -30,7 +30,7 @@ To illustrate <a href="https://www.ibm.com/think/topics/automation-vs-orchestrat
 The solution has two parts<br>
 
 <ol>
-  <li>A <a href="https://github.com/excomputing/pollutants" target="_blank">one-off solution</a> that sets up a data depository within Amazon, and subsequently delivers historical Scottish Air Quality nitrogen dioxide data to the depository; after cleaning and structuring. </li>
+  <li>A <a href="https://github.com/excomputing/pollutants" target="_blank">one-off solution</a> that sets up a data depository within Amazon, and subsequently delivers historical Scottish Air Quality nitrogen dioxide data to the depository; after inspecting and structuring. </li>
   <li>A solution designed to operate daily.  Each day it automatically reads and structures the latest nitrogen readings, conducts quantiles and extrema calculations, and delivers the calculations to a point where a graph's data interface automatically reads it.</li>
 </ol>
 
