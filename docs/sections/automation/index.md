@@ -20,7 +20,7 @@ An illustration of continuous integration, deployment, and delivery via an end-t
   <tr>
     <td><a href="https://d29mim58jd41o6.cloudfront.net/src/background.html" target="_blank">Intelligence Hub</a></td>
     <td>Hosts automatically updated metrics.</td>
-    <td>End of November 2025</td></tr>
+    <td>Middle of November 2025</td></tr>
   <tr>
     <td><a href="https://github.com/excomputing" target="_blank">Repositories Hub</a></td>
     <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
