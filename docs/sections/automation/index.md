@@ -18,7 +18,7 @@ An illustration of continuous integration, deployment, and delivery via an end-t
   </colgroup>
   <thead><tr style="text-align: left"><th>&nbsp;</th><th>Comment</th><th>Expires / Decommissioning</th></tr></thead>
   <tr>
-    <td><a href="https://d29mim58jd41o6.cloudfront.net/src/background.html" target="_blank">Intelligence Hub</a></td>
+    <td><a href="https://d29mim58jd41o6.cloudfront.net/src/background.html" target="_blank">Intelligence Hub</a><sup><b>1</b></sup></td>
     <td>Hosts automatically updated metrics.</td>
     <td>Middle of November 2025</td></tr>
   <tr>
@@ -32,6 +32,11 @@ An illustration of continuous integration, deployment, and delivery via an end-t
     <td></td>
   </tr>
 </table>
+<figcaption style="text-align: left; margin-left: 30px; margin-right: 90px; max-width: 60rem; font-size: small;">
+  <ol>
+    <li>The air quality data service, upon which the illustration/project depends, has been suspended; 12 November 2025 onwards.  Therefore, the underlying orchestration is in a disabled state.</li>
+  </ol>
+</figcaption>
 
 <br>
 <br>
