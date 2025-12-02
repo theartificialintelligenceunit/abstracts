@@ -22,7 +22,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   <tr>
     <td><a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">Intelligence Hub</a></td>
     <td>Hosts model & data details, and [automatically updated] dynamic model card components.</td>
-    <td>End of November 2025</td>
+    <td>under review</td>
   </tr>
   <tr>
     <td>Public Private Partnership</td>
