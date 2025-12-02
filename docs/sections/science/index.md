@@ -7,6 +7,14 @@ icon: lucide/microscope
 <div style="font-variant: small-caps; font-weight: 700; color: darkgray; font-size: x-large; margin-top: -25px;">+analytics</div>
 
 
+Within the <a href="https://theartificialintelligenceunit.github.io/systems/site/sections/details/preliminaries/" target="_blank">context of a challenge's declared</a>
+
+* Problem Statement
+* Outcome Expectations, Underlying Aims
+* Deployment Goal
+
+<br>
+
 ## Underpinnings of ethical model development
 
 <table style="width: 85%; margin-left: 35px; vertical-align: top;">
@@ -22,7 +30,7 @@ icon: lucide/microscope
     <td>Bias Analysis</td><td>Via the distribution analysis of features; data bias, variance, and noise.<sup>1, 2</sup></td>
   </tr>
   <tr>
-    <td>Model Analytics & Interpretation</td><td>An error metrics, model-algorithm input data, cost, and interpretation synthesis.</td>
+    <td>Model Analytics & Interpretation</td><td>An <a href="https://oecd.ai/en/catalogue/metrics" target="_blank">error metrics</a>, model-algorithm input data, cost, and interpretation synthesis.</td>
   </tr>
   <tr>
     <td>Model/Algorithm Mechanics</td>
