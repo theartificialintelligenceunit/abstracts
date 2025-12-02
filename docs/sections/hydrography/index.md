@@ -20,7 +20,7 @@ This project's focus is readily available river level intelligence, e.g., raw me
   <tr>
     <td><a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/in-river-introduction.html" target="_blank">Intelligence Hub</a></td>
     <td>Hosts automatically updated measures, metrics, forecasts, etc.</td>
-    <td>End of November 2025</td>
+    <td>under review</td>
   </tr>
   <tr>
     <td>BETA: <abbr title="Long Short-Term Memory">LSTM</abbr> Models</td>
