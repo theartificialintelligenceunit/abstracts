@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-12-02T21:41:30.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="PgPABuB-lLobVVjrT5A1" version="22.1.2" type="device" pages="13">
+<mxfile host="Electron" modified="2025-12-02T22:53:49.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="fI6TFHa6QuvhEy_bT5uX" version="22.1.2" type="device" pages="13">
   <diagram id="Kodp3enLHBOd9czhd2wM" name="BACKGROUND">
     <mxGraphModel dx="1098" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -309,7 +309,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BSDrcDLIP7kPk3dQqa6a-1" value="&lt;a href=&quot;http://localhost:8000/abstracts/&quot;&gt;ILLUSTRATIONS&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="BSDrcDLIP7kPk3dQqa6a-1" value="&lt;a href=&quot;http://localhost:8000/abstracts/&quot;&gt;ILLUSTRATIONS&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="450" y="350" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
@@ -320,7 +320,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y1uokT40e_BzfnsXpFpk-1" value="PROBLEM, SOLUTION DEVELOPMENT &amp;amp; DELIVERY" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="y1uokT40e_BzfnsXpFpk-1" value="PROBLEM DIAGNOSIS, DEVELOPMENT, DELIVERY" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="370" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -375,11 +375,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HHPAYJZG7zzeuaB3pPaX" name="the art of data science: principles">
-    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6NZBaHOrIBRijZFX85WH-1" value="the art of data science: &lt;a href=&quot;https://theartificialintelligenceunit.github.io/abstracts/sections/science/&quot; style=&quot;font-size: 19px;&quot;&gt;practices &amp;amp; principles&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="6NZBaHOrIBRijZFX85WH-1" value="the art of data science: &lt;a style=&quot;font-size: 19px;&quot; href=&quot;https://theartificialintelligenceunit.github.io/abstracts/site/sections/science/&quot;&gt;practices &amp;amp; principles&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="530" y="390" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
