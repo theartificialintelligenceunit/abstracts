@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-12-02T23:53:42.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="vyv27NSlXKYliEPYbYWk" version="22.1.2" type="device" pages="13">
+<mxfile host="Electron" modified="2025-12-03T00:20:09.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7yDHLesZ0DQq_iEnypVM" version="22.1.2" type="device" pages="13">
   <diagram id="Kodp3enLHBOd9czhd2wM" name="BACKGROUND">
     <mxGraphModel dx="1098" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -309,7 +309,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BSDrcDLIP7kPk3dQqa6a-1" value="&lt;a href=&quot;http://localhost:8000/abstracts/&quot;&gt;ILLUSTRATIONS&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="BSDrcDLIP7kPk3dQqa6a-1" value="&lt;a href=&quot;https://theartificialintelligenceunit.github.io/abstracts/&quot;&gt;ILLUSTRATIONS&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="450" y="350" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
