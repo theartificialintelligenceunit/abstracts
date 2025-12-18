@@ -76,11 +76,6 @@ nav = [
   { "TC: Eclectic" = [
       "sections/few/index.md",
       "sections/few/background.md"
-  ]},
-  { "Orchestrate<br>& Automate" = [
-      "sections/automation/index.md",
-      "sections/automation/background.md",
-      "sections/automation/notes.md"
   ]}
 ]
 
