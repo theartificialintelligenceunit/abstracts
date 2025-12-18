@@ -22,7 +22,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   <tr>
     <td><a href="https://d8md0papur5m0.cloudfront.net/src/c-dispatches-introduction.html" target="_blank">Intelligence Hub</a></td>
     <td>Hosts model & data details, and [automatically updated] dynamic model card components.</td>
-    <td>under review</td>
+    <td>End of November 2025; further developments, updates, cease a brief time hereafter. <sup>1</sup></td>
   </tr>
   <tr>
     <td>
@@ -37,6 +37,11 @@ The modelling package, and the supplementary packages, are adaptable components.
     <td></td>
   </tr>
 </table>
+<figcaption style="text-align: left; margin-left: 30px; margin-right: 90px; max-width: 60rem; font-size: small;">
+  <ol>
+    <li>Further developments by external/interested parties will appear elsewhere.</li>
+  </ol>
+</figcaption>
 
 <br>
 <br>

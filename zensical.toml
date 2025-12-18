@@ -39,7 +39,7 @@ site_url = "https://theartificialintelligenceunit.github.io/abstracts"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-2025, <a href="index.html"><i>Applied Artificial Intelligence/Machine Learning</i></a> @ Scottish Government
+2025, &nbsp;<i>Applied Artificial Intelligence/Machine Learning</i><br>Initiated by an arm of a dissolved unit of the Scottish Government
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -52,31 +52,31 @@ copyright = """
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
-  { "A&E" = [
+    { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
+    { "TC: Eclectic" = [
+        "sections/few/index.md",
+        "sections/few/background.md"
+    ]},
+    { "Rivers" = [
+        "sections/hydrography/index.md",
+        "sections/hydrography/background.md",
+        "sections/hydrography/data.md",
+        "sections/hydrography/measures-metrics.md",
+        "sections/hydrography/models.md",
+        "sections/hydrography/ci.md"
+    ]},
+    { "TC: Dispatches" = [
+        "sections/dispatches/index.md",
+        "sections/dispatches/background.md",
+        "sections/dispatches/data.md",
+        "sections/dispatches/models.md",
+        "sections/dispatches/inventory.md",
+        "sections/dispatches/case.md"
+    ]},
+    { "A&E" = [
       "sections/ae/index.md",
       "sections/ae/data.md"
-  ]},
-  { "Rivers" = [
-      "sections/hydrography/index.md",
-      "sections/hydrography/background.md",
-      "sections/hydrography/data.md",
-      "sections/hydrography/measures-metrics.md",
-      "sections/hydrography/models.md",
-      "sections/hydrography/ci.md"
-  ]},
-  { "TC: Dispatches" = [
-      "sections/dispatches/index.md",
-      "sections/dispatches/background.md",
-      "sections/dispatches/data.md",
-      "sections/dispatches/models.md",
-      "sections/dispatches/inventory.md",
-      "sections/dispatches/case.md"
-  ]},
-  { "TC: Eclectic" = [
-      "sections/few/index.md",
-      "sections/few/background.md"
-  ]}
+    ]}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -120,7 +120,7 @@ extra_javascript = [
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-custom_dir = "overrides"
+# custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
