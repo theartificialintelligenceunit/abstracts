@@ -2,7 +2,7 @@
 icon: lucide/rocking-chair
 ---
 
-# Projects, etc.
+# Sample of Projects
 
 <div class="grid cards" markdown>
 
