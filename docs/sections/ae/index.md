@@ -20,7 +20,7 @@ The focus herein is accident & emergency attendance forecasting.  The focus is o
   <tr>
     <td><a href="https://d2kwv4ntuhk1ki.cloudfront.net/src/pre-ae-introduction.html" target="_blank">Intelligence Hub</a></td>
     <td>Hosts automatically updated measures, metrics, forecasts, etc.</td>
-    <td>under review</td></tr>
+    <td>End of November 2025; automatic updates will continue for a few weeks hereafter.</td></tr>
   <tr>
     <td><a href="https://github.com/antecedents" target="_blank">Repositories Hub</a></td>
     <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
