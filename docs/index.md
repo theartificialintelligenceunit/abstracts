@@ -43,29 +43,6 @@ icon: lucide/rocking-chair
 <br>
 <br>
 
-Notes aiding project delivery:
-
-<div class="grid cards" markdown>
-
--   :material-scale-balance:{ .lg .middle } __Code of Practice__
-
-    ---
-
-    Notes vis-à-vis <a href="images/practice-operating-norms.html" onclick="window.open('images/practice-operating-norms.html', 'newwindow', 'width=1000,height=395'); return false;">operating norms</a>, <a href="images/practice-development-and-delivery.html" onclick="window.open('images/practice-development-and-delivery.html', 'newwindow', 'width=1450,height=790'); return false;">development & delivery</a>, <a href="images/practice-security.html" onclick="window.open('images/practice-security.html', 'newwindow', 'width=1450,height=790'); return false;">security</a>.<br><br>
-
-    <p><a href="https://theartificialintelligenceunit.github.io/practice/" target="_blank">README</a></p>
-
--   :material-scale-balance:{ .lg .middle } __Developing & Deploying ML/AI Dependent Systems__
-
-    ---
-
-    Notes vis-à-vis designing & developing artificial intelligence, machine learning, dependent solutions; project lifecycle, viability, feasibility.<br><br>
-
-    <p><a href="https://theartificialintelligenceunit.github.io/systems/" target="_blank">README</a></p>    
-
-</div>
-
-
 <br>
 <br>
 
