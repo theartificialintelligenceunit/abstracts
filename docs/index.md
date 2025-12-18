@@ -38,14 +38,6 @@ icon: lucide/rocking-chair
 
     <a data-preview href="sections/ae/">README</a>
 
--   :fontawesome-solid-robot:{ .lg .middle } __Orchestration & Automation__
-
-    ---
-
-    Illustrating continuous development & delivery via a simple, efficient, cost effective, and secure end-to-end solution.
-
-    <a data-preview href="sections/automation/">README</a>
-
 </div>
 
 <br>
