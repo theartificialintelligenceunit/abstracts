@@ -2,7 +2,7 @@
 icon: lucide/rocking-chair
 ---
 
-# Sample of Projects
+# A Sample of Projects[^1]
 
 <div class="grid cards" markdown>
 
@@ -57,3 +57,11 @@ icon: lucide/rocking-chair
 
 <br>
 <br>
+
+[^1]: <a href="sections/science" target="_blank">A short note about our considerations vis-à-vis the art of data science</a>; the notes supplement system development guide notes vis-à-vis designing, developing, and delivering an overarching artificial intelligence dependent system.
+
+<br>
+<br>
+
+
+
