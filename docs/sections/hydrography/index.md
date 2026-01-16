@@ -27,7 +27,7 @@ This project's focus is readily available river level intelligence, e.g., raw me
     <td>
       <ul>
         <li><abbr title="Scottish Environment Protection Agency">SEPA</abbr> colleagues are investigating how to (a) build on, integrate the items of, this project, and (b) how to support the resilience team.</li>
-        <li>Via an external partner, future plans for the resilience team include (a) a switch to recurrent neural networks models, i.e., long short-term memory models, for swift [seconds] real-time inference/forecasts, (b) an automatic <a href="https://github.com/repatterning/structures/tree/master/development#warning-cases" target="_blank">measures anomalies</a> warning system.</li>
+        <li>Via an external partner, future plans for the resilience team include (a) a switch to recurrent neural networks models, i.e., long short-term memory models, for swift [seconds] real-time inference/forecasts, (b) an automatic <a href="https://github.com/repatterning/structures/tree/master/development#warning-cases" target="_blank">measures anomalies</a> warning system, (c) and more.</li>
       </ul>
     </td>
     <td></td>
