@@ -25,11 +25,6 @@ The modelling package, and the supplementary packages, are adaptable components.
     <td>End of November 2025; further developments, updates, cease a brief time hereafter. <sup>1</sup></td>
   </tr>
   <tr>
-    <td>Public Private Partnership</td>
-    <td>Upcoming, an outline of a public private partnership building on this project.</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>
       <a href="https://greyhypotheses-detecting-eclectic.hf.space" onclick="window.open('https://greyhypotheses-detecting-eclectic.hf.space', 'newwindow', 'width=1199 5,height=690'); return false;">app</a>
     </td>
