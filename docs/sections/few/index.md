@@ -33,7 +33,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   </tr>
   <tr>
     <td><a href="https://github.com/prehypotheses" target="_blank">Repositories Hub</a></td>
-    <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
+    <td>Hosts the project's <i>git</i> repositories.</td>
     <td></td>
   </tr>
 </table>
