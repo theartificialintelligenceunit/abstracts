@@ -26,7 +26,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   </tr>
   <tr>
     <td>
-      <a href="https://greyhypotheses-detecting-eclectic.hf.space" onclick="window.open('https://greyhypotheses-detecting-eclectic.hf.space', 'newwindow', 'width=1199 5,height=690'); return false;">app</a>
+      <a href="https://greyhypotheses-detecting-eclectic.hf.space" onclick="window.open('https://greyhypotheses-detecting-eclectic.hf.space', 'newwindow', 'width=1199 5,height=690'); return false;">basic model interface</a>
     </td>
     <td>A simple interface for interacting with the last model version; an endless number of interface designs are possible.  The classes in focus are <b>art</b>, <b>building</b>, <b>event</b>, <b>geo-political entity</b>, <b>organisation</b>, and <b>weapon</b>.</td>
     <td></td>
