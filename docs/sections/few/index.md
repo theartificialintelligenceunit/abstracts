@@ -4,7 +4,7 @@ icon: lucide/microscope
 
 # Token Classification: Eclectic[^1]
 
-A second project focusing on text/string detection & classification; cf. <a data-preview href="../../sections/dispatches/">dispatches</a>.  It fine-tunes a large language model architecture. Herein, the model depends on a different text tagging scheme, and a different data set; it also focuses on a different set of classes.  For more details visit the <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">project's online hub</a>.  <b>The ultimate aim is Token Classification + Syntactic Parsing &Rarr; Knowledge Graph</b>.
+A second project focusing on text/string detection & classification; cf. <a data-preview href="../../sections/dispatches/">dispatches</a>.  It fine-tunes a large language model architecture. Herein, the model depends on a different text tagging scheme, and a different data set; it also focuses on a different set of classes.  For more details visit the project's online hub[^2].  The ultimate aim is Token Classification + Syntactic Parsing &Rarr; Knowledge Graph.
 
 The modelling package, and the supplementary packages, are adaptable components.
 
@@ -56,6 +56,7 @@ The modelling package, and the supplementary packages, are adaptable components.
 <br>
 
 [^1]: Herein, token classification is the detection and classification of text or strings via fine-tuned large language model architectures. Each model detects and classifies text or strings of vis-à-vis a set of classes.
+[^2]: Decommissioned.
 
 <br>
 <br>
