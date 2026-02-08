@@ -20,20 +20,20 @@ The modelling package, and the supplementary packages, are adaptable components.
   </colgroup>
   <thead><tr style="text-align: left"><th>&nbsp;</th><th>Comment</th><th>Expires / Decommissioning</th></tr></thead>
   <tr>
-    <td><a href="https://d8md0papur5m0.cloudfront.net/src/c-dispatches-introduction.html" target="_blank">Intelligence Hub</a></td>
+    <td>Intelligence Hub</td>
     <td>Hosts model & data details, and [automatically updated] dynamic model card components.</td>
     <td>End of November 2025; further developments, updates, cease a brief time hereafter. <sup>1</sup></td>
   </tr>
   <tr>
     <td>
-      <a href="https://greyhypotheses-detecting.hf.space" onclick="window.open('https://greyhypotheses-detecting.hf.space', 'newwindow', 'width=1249 5,height=890'); return false;">app</a>
+      <a href="https://greyhypotheses-detecting.hf.space" onclick="window.open('https://greyhypotheses-detecting.hf.space', 'newwindow', 'width=1249 5,height=890'); return false;">basic model interface</a>
     </td>
     <td>A simple interface for interacting with the developed model; an endless number of interface designs are possible.  The classes in focus are  <b>organisation</b>, <b>person</b>, <b>time</b>, <b>geographic entity</b>, <b>geo-political entity [excluding geographic items]</b></td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/membranes" target="_blank">Repositories Hub</a></td>
-    <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
+    <td>Hosts the project's <i>git</i> repositories.</td>
     <td></td>
   </tr>
 </table>
