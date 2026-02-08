@@ -26,7 +26,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   </tr>
   <tr>
     <td>
-      <a href="https://greyhypotheses-detecting.hf.space" onclick="window.open('https://greyhypotheses-detecting.hf.space', 'newwindow', 'width=1249 5,height=890'); return false;">app</a>
+      <a href="https://greyhypotheses-detecting.hf.space" onclick="window.open('https://greyhypotheses-detecting.hf.space', 'newwindow', 'width=1249 5,height=890'); return false;">basic model interface</a>
     </td>
     <td>A simple interface for interacting with the developed model; an endless number of interface designs are possible.  The classes in focus are  <b>organisation</b>, <b>person</b>, <b>time</b>, <b>geographic entity</b>, <b>geo-political entity [excluding geographic items]</b></td>
     <td></td>
