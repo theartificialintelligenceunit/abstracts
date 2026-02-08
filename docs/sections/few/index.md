@@ -20,7 +20,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   </colgroup>
   <thead><tr style="text-align: left"><th>&nbsp;</th><th>Comment</th><th>Expires / Decommissioning</th></tr></thead>
   <tr>
-    <td><a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">Intelligence Hub</a></td>
+    <td>Intelligence Hub</td>
     <td>Hosts model & data details, and [automatically updated] dynamic model card components.</td>
     <td>End of November 2025; further developments, updates, cease a brief time hereafter. <sup>1</sup></td>
   </tr>
@@ -28,7 +28,7 @@ The modelling package, and the supplementary packages, are adaptable components.
     <td>
       <a href="https://greyhypotheses-detecting-eclectic.hf.space" onclick="window.open('https://greyhypotheses-detecting-eclectic.hf.space', 'newwindow', 'width=1199 5,height=690'); return false;">app</a>
     </td>
-    <td>A simple interface for interacting with the developed model; an endless number of interface designs are possible.  The classes in focus are <b>art</b>, <b>building</b>, <b>event</b>, <b>geo-political entity</b>, <b>organisation</b>, and <b>weapon</b>.</td>
+    <td>A simple interface for interacting with the last model version; an endless number of interface designs are possible.  The classes in focus are <b>art</b>, <b>building</b>, <b>event</b>, <b>geo-political entity</b>, <b>organisation</b>, and <b>weapon</b>.</td>
     <td></td>
   </tr>
   <tr>
