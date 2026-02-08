@@ -4,18 +4,16 @@ icon: lucide/brain-circuit
 
 # Models
 
-At present, river level prediction/forecasting depends on hourly river level data.  For the latest settings, including forecasting hours $\small{ahead}$, study the configuration files <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/arc-state-space-mixture/arguments.json" target="_blank">arguments.json</a> | <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/arc-state-space-mixture/arguments.yaml" target="_blank">arguments.yaml</a>; the YAML version includes definitions.
+During the team's existence the river level prediction/forecasting models were Bayesian models; future models include recurrent neural network models.  
 
 <br>
 
 ## Recurrent Neural Networks: LSTM
 
-The latest model is a LSTM model.  For an indepth understanding study
+For an indepth understanding study[^2]<sup>, </sup>[^3]<sup>, </sup>[^4]
 
 * <a href="https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext" target="_blank">Long Short-Term Memory</a> by Sepp Hochreiter, Jürgen Schmidhuber
 * <a href="https://arxiv.org/abs/1909.09586" target="_blank">Understanding LSTM</a> by Ralf C. Staudemeyer, Eric Rothstein Morris
-
-The project's LSTM modelling repository/package depends on tensorflow-keras libraries; applications, in practice[^2]<sup>, </sup>[^3]<sup>, </sup>[^4].
 
 <br>
 
