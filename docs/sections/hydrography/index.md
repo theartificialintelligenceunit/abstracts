@@ -18,7 +18,7 @@ This project's focus is readily available river level intelligence, e.g., raw me
   </colgroup>
   <thead><tr style="text-align: left"><th>&nbsp;</th><th>Comment</th><th>Expires / Decommissioning</th></tr></thead>
   <tr>
-    <td><a href="https://d3h5uy7f3ttkyl.cloudfront.net/src/in-river-introduction.html" target="_blank">Intelligence Hub</a></td>
+    <td>Intelligence Hub</td>
     <td>Hosts automatically updated measures, metrics, forecasts, etc.</td>
     <td>End of November 2025; automatic updates will continue for a few weeks hereafter. <sup>1</sup></td>
   </tr>
@@ -27,14 +27,14 @@ This project's focus is readily available river level intelligence, e.g., raw me
     <td>
       <ul>
         <li><abbr title="Scottish Environment Protection Agency">SEPA</abbr> colleagues are investigating how to (a) build on, integrate the items of, this project, and (b) how to support the resilience team.</li>
-        <li>Via an external partner, future plans for the resilience team include (a) a switch to recurrent neural networks models, i.e., long short-term memory models, for swift [seconds] real-time inference/forecasts, (b) an automatic <a href="https://github.com/repatterning/structures/tree/master/development#warning-cases" target="_blank">measures anomalies</a> warning system, (c) and more.</li>
+        <li>Via an external partner, future plans for the resilience team include (a) a switch to recurrent neural networks models, i.e., long short-term memory models, for swift [seconds] real-time inference/forecasts, (b) an automatic measures anomalies hub, (c) and more.</li>
       </ul>
     </td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/repatterning" target="_blank">Repositories Hub</a></td>
-    <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
+    <td>Hosts the project's <i>git</i> repositories.</td>
     <td></td>
   </tr>
 </table>
