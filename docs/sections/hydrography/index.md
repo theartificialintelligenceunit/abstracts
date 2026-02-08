@@ -4,7 +4,7 @@ icon: lucide/microscope
 
 # River Levels
 
-This project's focus is readily available river level intelligence, e.g., raw measure curves, river level forecasts, weighted rates of change, etc., in aid of resilience activity, preventive action, and more.  Initially, predominantly, for officials aiding Scottish Government Resilience activities. Forecasting via Bayesian structural time series $+$ variational inference, and long short-term memory deep learning architectures.
+This project's focus is readily available river level intelligence, e.g., raw measure curves, river level forecasts, weighted rates of change, etc., in aid of resilience activity, preventive action, and more.  Initially, for officials aiding Scottish Government Resilience activities.
 
 <br>
 
