@@ -20,7 +20,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   </colgroup>
   <thead><tr style="text-align: left"><th>&nbsp;</th><th>Comment</th><th>Expires / Decommissioning</th></tr></thead>
   <tr>
-    <td><a href="https://d8md0papur5m0.cloudfront.net/src/c-dispatches-introduction.html" target="_blank">Intelligence Hub</a></td>
+    <td>Intelligence Hub</td>
     <td>Hosts model & data details, and [automatically updated] dynamic model card components.</td>
     <td>End of November 2025; further developments, updates, cease a brief time hereafter. <sup>1</sup></td>
   </tr>
@@ -33,7 +33,7 @@ The modelling package, and the supplementary packages, are adaptable components.
   </tr>
   <tr>
     <td><a href="https://github.com/membranes" target="_blank">Repositories Hub</a></td>
-    <td>Hosts the project's <a href="https://git-scm.com" target="_blank">git</a> repositories.</td>
+    <td>Hosts the project's <i>git</i> repositories.</td>
     <td></td>
   </tr>
 </table>
