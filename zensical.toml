@@ -62,8 +62,7 @@ nav = [
         "sections/hydrography/background.md",
         "sections/hydrography/data.md",
         "sections/hydrography/measures-metrics.md",
-        "sections/hydrography/models.md",
-        "sections/hydrography/ci.md"
+        "sections/hydrography/models.md"
     ]},
     { "TC: Dispatches" = [
         "sections/dispatches/index.md",
