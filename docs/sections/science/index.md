@@ -7,7 +7,7 @@ icon: lucide/microscope
 <div style="font-variant: small-caps; font-weight: 700; color: darkgray; font-size: x-large; margin-top: -25px;">+analytics</div>
 
 
-Within the <a href="https://theartificialintelligenceunit.github.io/systems/site/sections/details/preliminaries/" target="_blank">context of a project's declared</a>
+Within the context of a project's declared
 
 * Problem Statement
 * Outcome Expectations, Underlying Aims
