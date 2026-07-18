@@ -4,13 +4,11 @@ icon: lucide/brain-circuit
 
 # Models
 
-!!! note
-    
-    [Model Description](https://d8md0papur5m0.cloudfront.net/src/c-dispatches-data-profiles.html)
 
 ## Approach
 
-For a specific token classification dependent problem, an artificial intelligence engineer can
+For a specific token classification problem, an artificial intelligence practitioner can
+
 <ul>
   <li>Develop a token classification model per language model architecture, e.g., <a href="https://arxiv.org/abs/1907.11692">RoBERTa (Robustly Optimized BERT Pretraining Approach)</a>, <a href="https://arxiv.org/abs/2003.10555">ELECTRA (Efficiently Learning an Encoder that Classifies Token Replacements Accurately)</a>.  Per architecture, <a href="https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1484">hyperparameter optimisation/tuning techniques</a>, and <a href="https://docs.ray.io/en/latest/tune/index.html">libraries</a>, aid the development of quite effective models, subject to early stopping, etc., constraints.</li>
   <li>Select the best model amongst the set of models; a single model per architecture.</li>
